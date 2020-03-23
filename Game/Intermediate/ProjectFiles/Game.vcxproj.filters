@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\Game.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{CFF6DA2B-1FED-4E42-8E2F-907A563B0EBF}</UniqueIdentifier>
+      <UniqueIdentifier>{EE376780-46FD-4114-AA0F-C61D92383768}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Game.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{961C9863-30CE-490F-ACB5-A0380C9DA56D}</UniqueIdentifier>
+      <UniqueIdentifier>{CBED309F-F030-4468-8F48-727679FCBB6C}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,8 +30,14 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\Game">
-      <UniqueIdentifier>{B8CFF6C5-0863-4887-A2ED-5E71BF44DBF6}</UniqueIdentifier>
+      <UniqueIdentifier>{776CDC72-22AE-4F09-A072-4F1C0693C6A7}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\Game\CollisionDetector.cpp">
+      <Filter>Source\Game</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Game\CollisionDetector.h">
+      <Filter>Source\Game</Filter>
+    </ClInclude>
     <None Include="..\..\Source\Game\Game.Build.cs">
       <Filter>Source\Game</Filter>
     </None>
@@ -65,5 +71,21 @@
     <ClInclude Include="..\..\Source\Game\GameProjectile.h">
       <Filter>Source\Game</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\Game\MyPawn.h">
+      <Filter>Source\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Game\TestActorComponent.h">
+      <Filter>Source\Game</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\Game\MyPawn.cpp">
+      <Filter>Source\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Game\TestActorComponent.cpp">
+      <Filter>Source\Game</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

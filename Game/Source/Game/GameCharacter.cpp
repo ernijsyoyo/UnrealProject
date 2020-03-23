@@ -84,6 +84,7 @@ AGameCharacter::AGameCharacter()
 	//bUsingMotionControllers = true;
 }
 
+
 void AGameCharacter::BeginPlay()
 {
 	// Call the base class  

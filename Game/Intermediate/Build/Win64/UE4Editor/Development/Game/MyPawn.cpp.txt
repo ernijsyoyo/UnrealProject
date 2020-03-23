@@ -1,0 +1,3 @@
+C:\Users\Ernie\Desktop\UnrealProject\Game\Intermediate\Build\Win64\UE4Editor\Development\Game\Definitions.Game.h
+c:\users\ernie\desktop\unrealproject\game\source\game\MyPawn.h
+C:\Users\Ernie\Desktop\UnrealProject\Game\Intermediate\Build\Win64\UE4Editor\Inc\Game\MyPawn.generated.h

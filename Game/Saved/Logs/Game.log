@@ -1012,3 +1012,1661 @@ Script Stack (0 frames):
 [2020.03.23-21.37.56:651][ 33]LogStats:             FDebug::EnsureFailed -  1.190 s
 [2020.03.23-21.38.05:971][ 33]LogSlate: Window 'Submit Files' being destroyed
 [2020.03.23-21.38.21:949][980]LogSlate: Window 'Source Control Login' being destroyed
+[2020.03.23-21.41.07:867][457]LogSlate: Took 0.000193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.23-21.41.07:921][457]LogSlate: WidgetSwitcher ('None') active index changed to -1
+[2020.03.23-21.41.07:922][457]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.03.23-21.41.07:989][457]LogSlate: Took 0.005707 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.03.23-21.41.38:205][242]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{b66c8298-a1ca-4c7f-8596-0ee258f9f6ca}.
+[2020.03.23-21.41.38:205][242]LogTemp: Resetting audio stream to device id 
+[2020.03.23-21.41.38:221][242]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.23-21.41.38:221][242]LogAudioMixer: Display: Name: Lautsprecher (Synaptics Audio)
+[2020.03.23-21.41.38:221][242]LogAudioMixer: Display: Is Default: Yes
+[2020.03.23-21.41.38:221][242]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.23-21.41.38:221][242]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.23-21.41.38:221][242]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.23-21.41.38:221][242]LogAudioMixer: Display: Channel Order:
+[2020.03.23-21.41.38:221][242]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.23-21.41.38:221][242]LogAudioMixer: Display: 1: FrontRight
+[2020.03.23-21.41.43:614][556]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{e7407622-6086-4706-b8b3-942ac3525cd7}.
+[2020.03.23-21.41.43:656][556]LogTemp: Resetting audio stream to device id 
+[2020.03.23-21.41.45:128][556]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.23-21.41.45:128][556]LogAudioMixer: Display: Name: Speakers (Scarlett 2i4 USB)
+[2020.03.23-21.41.45:128][556]LogAudioMixer: Display: Is Default: Yes
+[2020.03.23-21.41.45:128][556]LogAudioMixer: Display: Sample Rate: 44100
+[2020.03.23-21.41.45:128][556]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.23-21.41.45:128][556]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.23-21.41.45:128][556]LogAudioMixer: Display: Channel Order:
+[2020.03.23-21.41.45:128][556]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.23-21.41.45:128][556]LogAudioMixer: Display: 1: FrontRight
+[2020.03.23-21.41.46:018][557]LogTemp: Resetting audio stream to device id 
+[2020.03.23-21.41.46:046][557]LogAudioMixer: Warning: Did not find the channel type flags for audio device 'Speakers (Scarlett 2i4 USB)'. Reverting to a default channel ordering.
+[2020.03.23-21.41.46:046][557]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.23-21.41.46:046][557]LogAudioMixer: Display: Name: Speakers (Scarlett 2i4 USB)
+[2020.03.23-21.41.46:046][557]LogAudioMixer: Display: Is Default: Yes
+[2020.03.23-21.41.46:046][557]LogAudioMixer: Display: Sample Rate: 44100
+[2020.03.23-21.41.46:046][557]LogAudioMixer: Display: Channel Count Used: 4
+[2020.03.23-21.41.46:046][557]LogAudioMixer: Display: Device Channel Count: 4
+[2020.03.23-21.41.46:046][557]LogAudioMixer: Display: Channel Order:
+[2020.03.23-21.41.46:046][557]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.23-21.41.46:046][557]LogAudioMixer: Display: 1: FrontRight
+[2020.03.23-21.41.46:046][557]LogAudioMixer: Display: 2: BackLeft
+[2020.03.23-21.41.46:046][557]LogAudioMixer: Display: 3: BackRight
+[2020.03.23-21.42.52:182][592]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.03.23-21.43.02:949][235]Running C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/Ernie/Desktop/UnrealProject/Game/Game.uproject" -game -rocket -progress
+[2020.03.23-21.43.03:255][235]Discovering modules, targets and source code for project...
+[2020.03.23-21.43.04:161][235]Binding IntelliSense data...
+[2020.03.23-21.43.05:784][235]Binding IntelliSense data... 100%
+[2020.03.23-21.43.05:784][235]Writing project files...
+[2020.03.23-21.43.07:497][235]Writing project files... 100%
+[2020.03.23-21.43.07:726][235]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2020.03.23-21.43.07:738][235]Candidate modules for hot reload:
+[2020.03.23-21.43.07:738][235]  Game
+[2020.03.23-21.43.07:738][235]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Game,1061 Win64 Development -TargetType=Editor -Project="C:/Users/Ernie/Desktop/UnrealProject/Game/Game.uproject" "C:/Users/Ernie/Desktop/UnrealProject/Game/Game.uproject"  -IgnoreJunk]
+[2020.03.23-21.43.10:438][235]CompilerResultsLog: New page: Compilation - 23 Mar 2020, 23:43:10
+[2020.03.23-21.43.10:439][235]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Ernie\Desktop\UnrealProject).
+[2020.03.23-21.43.10:439][235]CompilerResultsLog: Creating makefile for GameEditor (no existing makefile)
+[2020.03.23-21.43.10:439][235]CompilerResultsLog: Building GameEditor...
+[2020.03.23-21.43.10:439][235]CompilerResultsLog: Using Visual Studio 2017 14.16.27034 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.03.23-21.43.10:439][235]CompilerResultsLog: Building 4 actions with 16 processes...
+[2020.03.23-21.43.10:439][235]CompilerResultsLog:   [1/4] CollisionDetector.cpp
+[2020.03.23-21.43.10:439][235]CompilerResultsLog:   [2/4] UE4Editor-Game-1061.lib
+[2020.03.23-21.43.10:439][235]CompilerResultsLog:      Creating library C:\Users\Ernie\Desktop\UnrealProject\Game\Intermediate\Build\Win64\UE4Editor\Development\Game\UE4Editor-Game-1061.lib and object C:\Users\Ernie\Desktop\UnrealProject\Game\Intermediate\Build\Win64\UE4Editor\Development\Game\UE4Editor-Game-1061.exp
+[2020.03.23-21.43.10:439][235]CompilerResultsLog:   [3/4] UE4Editor-Game-1061.dll
+[2020.03.23-21.43.10:439][235]CompilerResultsLog:      Creating library C:\Users\Ernie\Desktop\UnrealProject\Game\Intermediate\Build\Win64\UE4Editor\Development\Game\UE4Editor-Game-1061.suppressed.lib and object C:\Users\Ernie\Desktop\UnrealProject\Game\Intermediate\Build\Win64\UE4Editor\Development\Game\UE4Editor-Game-1061.suppressed.exp
+[2020.03.23-21.43.10:439][235]CompilerResultsLog:   [4/4] GameEditor.target
+[2020.03.23-21.43.10:439][235]CompilerResultsLog: Total time in Parallel executor: 1,16 seconds
+[2020.03.23-21.43.10:439][235]CompilerResultsLog: Total execution time: 2,64 seconds
+[2020.03.23-21.43.10:439][235]LogMainFrame: MainFrame: Module compiling took 2.713 seconds
+[2020.03.23-21.43.10:469][235]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2020.03.23-21.43.10:490][235]LogHotReload: Re-instancing GameHUD after hot-reload.
+[2020.03.23-21.43.10:588][235]LogContentBrowser: Native class hierarchy updated for 'Game' in 0.0003 seconds. Added 4 classes and 2 folders.
+[2020.03.23-21.43.10:590][235]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2020.03.23-21.43.10:650][235]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2020.03.23-21.43.10:660][235]LogContentBrowser: Native class hierarchy populated in 0.0063 seconds. Added 3021 classes and 722 folders.
+[2020.03.23-21.43.10:660][235]Display: HotReload took  2.9s.
+[2020.03.23-21.43.10:678][235]Warning: HotReload operation took  3.0s.
+[2020.03.23-21.43.10:731][235]LogSlate: Window 'Add C++ Class' being destroyed
+[2020.03.23-21.43.10:735][235]LogHotReload: New module detected: UE4Editor-Game-1061.dll
+[2020.03.23-21.43.10:795][236]LogHotReload: Starting Hot-Reload from IDE
+[2020.03.23-21.43.11:037][236]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.03.23-21.43.11:041][236]LogContentBrowser: Native class hierarchy updated for 'Game' in 0.0006 seconds. Added 4 classes and 2 folders.
+[2020.03.23-21.43.11:044][236]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.03.23-21.43.11:079][236]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.03.23-21.43.11:094][236]LogContentBrowser: Native class hierarchy populated in 0.0100 seconds. Added 3021 classes and 722 folders.
+[2020.03.23-21.43.11:105][236]Display: HotReload took  0.3s.
+[2020.03.23-21.44.22:781][472]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.03.23-21.44.30:521][931]Cmd: POLY SELECT ALL
+[2020.03.23-21.44.35:788][247]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube21)
+[2020.03.23-21.45.06:673][ 72]LogRenderer: Reallocating scene render targets to support 964x436 Format 10 NumSamples 1 (Frame:10237).
+[2020.03.23-21.45.06:696][ 73]LogRenderer: Reallocating scene render targets to support 964x440 Format 10 NumSamples 1 (Frame:10239).
+[2020.03.23-21.45.06:719][ 74]LogRenderer: Reallocating scene render targets to support 964x444 Format 10 NumSamples 1 (Frame:10241).
+[2020.03.23-21.45.06:742][ 75]LogRenderer: Reallocating scene render targets to support 964x448 Format 10 NumSamples 1 (Frame:10243).
+[2020.03.23-21.45.06:763][ 76]LogRenderer: Reallocating scene render targets to support 964x452 Format 10 NumSamples 1 (Frame:10245).
+[2020.03.23-21.45.06:786][ 77]LogRenderer: Reallocating scene render targets to support 964x456 Format 10 NumSamples 1 (Frame:10247).
+[2020.03.23-21.45.06:825][ 79]LogRenderer: Reallocating scene render targets to support 964x460 Format 10 NumSamples 1 (Frame:10251).
+[2020.03.23-21.45.06:913][ 84]LogRenderer: Reallocating scene render targets to support 964x464 Format 10 NumSamples 1 (Frame:10259).
+[2020.03.23-21.45.06:966][ 87]LogRenderer: Reallocating scene render targets to support 964x468 Format 10 NumSamples 1 (Frame:10265).
+[2020.03.23-21.45.07:000][ 89]LogRenderer: Reallocating scene render targets to support 964x472 Format 10 NumSamples 1 (Frame:10269).
+[2020.03.23-21.45.07:054][ 92]LogRenderer: Reallocating scene render targets to support 964x476 Format 10 NumSamples 1 (Frame:10274).
+[2020.03.23-21.45.07:121][ 96]LogRenderer: Reallocating scene render targets to support 964x480 Format 10 NumSamples 1 (Frame:10282).
+[2020.03.23-21.45.07:185][100]LogRenderer: Reallocating scene render targets to support 964x484 Format 10 NumSamples 1 (Frame:10289).
+[2020.03.23-21.45.07:237][103]LogRenderer: Reallocating scene render targets to support 964x488 Format 10 NumSamples 1 (Frame:10294).
+[2020.03.23-21.45.07:307][107]LogRenderer: Reallocating scene render targets to support 964x492 Format 10 NumSamples 1 (Frame:10301).
+[2020.03.23-21.45.07:356][110]LogRenderer: Reallocating scene render targets to support 964x496 Format 10 NumSamples 1 (Frame:10307).
+[2020.03.23-21.45.07:389][112]LogRenderer: Reallocating scene render targets to support 964x500 Format 10 NumSamples 1 (Frame:10311).
+[2020.03.23-21.45.07:423][114]LogRenderer: Reallocating scene render targets to support 964x504 Format 10 NumSamples 1 (Frame:10315).
+[2020.03.23-21.45.07:440][115]LogRenderer: Reallocating scene render targets to support 964x508 Format 10 NumSamples 1 (Frame:10317).
+[2020.03.23-21.45.07:456][116]LogRenderer: Reallocating scene render targets to support 964x512 Format 10 NumSamples 1 (Frame:10319).
+[2020.03.23-21.45.07:476][117]LogRenderer: Reallocating scene render targets to support 964x516 Format 10 NumSamples 1 (Frame:10321).
+[2020.03.23-21.45.07:547][121]LogRenderer: Reallocating scene render targets to support 964x520 Format 10 NumSamples 1 (Frame:10329).
+[2020.03.23-21.45.08:300][166]LogRenderer: Reallocating scene render targets to support 964x524 Format 10 NumSamples 1 (Frame:10382).
+[2020.03.23-21.45.08:365][170]LogRenderer: Reallocating scene render targets to support 964x528 Format 10 NumSamples 1 (Frame:10387).
+[2020.03.23-21.45.12:707][424]LogAssetEditorSubsystem: Opening Asset editor for Class /Script/Game.GameCharacter
+[2020.03.23-21.47.19:669][802]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2020.03.23-21.47.19:802][802]LogSavePackage: Moving '../../../../../../Users/Ernie/Desktop/UnrealProject/Game/Saved/FirstPersonExampleMap_Auto1A52771CF479C0E0A7481D1A25BA7D866.tmp' to '../../../../../../Users/Ernie/Desktop/UnrealProject/Game/Saved/Autosaves/Game/FirstPersonCPP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2020.03.23-21.47.19:806][802]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap' took 0.172
+[2020.03.23-21.47.19:806][802]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.172
+[2020.03.23-21.49.13:440][327]LogSlate: WidgetSwitcher ('None') active index changed to -1
+[2020.03.23-21.49.13:440][327]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.03.23-21.49.25:134][ 14]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.03.23-21.49.27:715][134]Candidate modules for hot reload:
+[2020.03.23-21.49.27:715][134]  Game
+[2020.03.23-21.49.27:715][134]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Game,6839 Win64 Development -TargetType=Editor -Project="C:/Users/Ernie/Desktop/UnrealProject/Game/Game.uproject" "C:/Users/Ernie/Desktop/UnrealProject/Game/Game.uproject"  -IgnoreJunk]
+[2020.03.23-21.49.36:134][134]CompilerResultsLog: New page: Compilation - 23 Mar 2020, 23:49:36
+[2020.03.23-21.49.36:134][134]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Ernie\Desktop\UnrealProject).
+[2020.03.23-21.49.36:134][134]CompilerResultsLog: Creating makefile for GameEditor (.uproject file is newer)
+[2020.03.23-21.49.36:134][134]CompilerResultsLog: Parsing headers for GameEditor
+[2020.03.23-21.49.36:134][134]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Ernie\Desktop\UnrealProject\Game\Game.uproject" "C:\Users\Ernie\Desktop\UnrealProject\Game\Intermediate\Build\Win64\GameEditor\Development\GameEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.03.23-21.49.36:134][134]CompilerResultsLog: Reflection code generated for GameEditor in 5,10282 seconds
+[2020.03.23-21.49.36:134][134]CompilerResultsLog: Building GameEditor...
+[2020.03.23-21.49.36:134][134]CompilerResultsLog: Using Visual Studio 2017 14.16.27034 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.03.23-21.49.36:134][134]CompilerResultsLog: Building 16 actions with 16 processes...
+[2020.03.23-21.49.36:134][134]CompilerResultsLog:   [1/16] CollisionDetector.cpp
+[2020.03.23-21.49.36:134][134]CompilerResultsLog:    c:\users\ernie\desktop\unrealproject\game\source\game\CollisionDetector.h(15) : error C3668: 'CollisionDetector::Tick': method with override specifier 'override' did not override any base class methods
+[2020.03.23-21.49.36:134][134]CompilerResultsLog:   c:\users\ernie\desktop\unrealproject\game\source\game\CollisionDetector.h(16): warning C4265: 'CollisionDetector': class has virtual functions, but destructor is not virtual
+[2020.03.23-21.49.36:134][134]CompilerResultsLog:            instances of this class may not be destructed correctly
+[2020.03.23-21.49.36:134][134]CompilerResultsLog:   C:\Users\Ernie\Desktop\UnrealProject\Game\Source\Game\CollisionDetector.cpp(16): fatal error C1004: unexpected end-of-file found
+[2020.03.23-21.49.36:134][134]CompilerResultsLog:   [2/16] Game.cpp
+[2020.03.23-21.49.36:134][134]CompilerResultsLog:   [3/16] MyPawn.cpp
+[2020.03.23-21.49.36:134][134]CompilerResultsLog:   [4/16] Game.init.gen.cpp
+[2020.03.23-21.49.36:134][134]CompilerResultsLog:   [5/16] MyPawn.gen.cpp
+[2020.03.23-21.49.36:134][134]CompilerResultsLog:   [6/16] GameProjectile.gen.cpp
+[2020.03.23-21.49.36:134][134]CompilerResultsLog:   [7/16] GameProjectile.cpp
+[2020.03.23-21.49.36:134][134]CompilerResultsLog:   [8/16] GameHUD.gen.cpp
+[2020.03.23-21.49.36:134][134]CompilerResultsLog:   [9/16] GameGameMode.gen.cpp
+[2020.03.23-21.49.36:134][134]CompilerResultsLog:   [10/16] GameCharacter.gen.cpp
+[2020.03.23-21.49.36:134][134]CompilerResultsLog:   [11/16] GameHUD.cpp
+[2020.03.23-21.49.36:134][134]CompilerResultsLog:   [12/16] GameGameMode.cpp
+[2020.03.23-21.49.36:134][134]CompilerResultsLog:   [13/16] GameCharacter.cpp
+[2020.03.23-21.49.36:134][134]LogMainFrame: MainFrame: Module compiling took 8.429 seconds
+[2020.03.23-21.49.36:134][134]Warning: HotReload failed, recompile failed
+[2020.03.23-21.49.36:134][134]Warning: RebindPackages failed because compilation failed.
+[2020.03.23-21.49.46:558][134]LogSlate: Window 'Message' being destroyed
+[2020.03.23-21.49.46:563][134]LogSlate: Window 'Add C++ Class' being destroyed
+[2020.03.23-21.49.48:294][237]Candidate modules for hot reload:
+[2020.03.23-21.49.48:294][237]  Game
+[2020.03.23-21.49.48:295][237]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Game,1182 Win64 Development -TargetType=Editor -Project="C:/Users/Ernie/Desktop/UnrealProject/Game/Game.uproject" "C:/Users/Ernie/Desktop/UnrealProject/Game/Game.uproject"  -IgnoreJunk]
+[2020.03.23-21.49.48:298][237]Warning: Starting HotReload took  0.0s.
+[2020.03.23-21.49.49:416][290]CompilerResultsLog: New page: Compilation - 23 Mar 2020, 23:49:49
+[2020.03.23-21.49.49:416][290]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Ernie\Desktop\UnrealProject).
+[2020.03.23-21.49.49:416][290]CompilerResultsLog: Building GameEditor...
+[2020.03.23-21.49.49:416][290]CompilerResultsLog: Using Visual Studio 2017 14.16.27034 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.03.23-21.49.49:416][290]CompilerResultsLog: Building 4 actions with 16 processes...
+[2020.03.23-21.49.49:416][290]CompilerResultsLog:   [1/4] CollisionDetector.cpp
+[2020.03.23-21.49.49:416][290]CompilerResultsLog:    c:\users\ernie\desktop\unrealproject\game\source\game\CollisionDetector.h(15) : error C3668: 'CollisionDetector::Tick': method with override specifier 'override' did not override any base class methods
+[2020.03.23-21.49.49:416][290]CompilerResultsLog:   c:\users\ernie\desktop\unrealproject\game\source\game\CollisionDetector.h(16): warning C4265: 'CollisionDetector': class has virtual functions, but destructor is not virtual
+[2020.03.23-21.49.49:416][290]CompilerResultsLog:            instances of this class may not be destructed correctly
+[2020.03.23-21.49.49:416][290]CompilerResultsLog:   C:\Users\Ernie\Desktop\UnrealProject\Game\Source\Game\CollisionDetector.cpp(16): fatal error C1004: unexpected end-of-file found
+[2020.03.23-21.49.49:416][290]LogMainFrame: MainFrame: Module compiling took 1.133 seconds
+[2020.03.23-21.49.49:416][290]Warning: HotReload failed, recompile failed
+[2020.03.23-21.50.09:134][963]Candidate modules for hot reload:
+[2020.03.23-21.50.09:134][963]  Game
+[2020.03.23-21.50.09:134][963]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Game,7176 Win64 Development -TargetType=Editor -Project="C:/Users/Ernie/Desktop/UnrealProject/Game/Game.uproject" "C:/Users/Ernie/Desktop/UnrealProject/Game/Game.uproject"  -IgnoreJunk]
+[2020.03.23-21.50.09:137][963]Warning: Starting HotReload took  0.0s.
+[2020.03.23-21.50.10:270][ 17]CompilerResultsLog: New page: Compilation - 23 Mar 2020, 23:50:10
+[2020.03.23-21.50.10:270][ 17]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Ernie\Desktop\UnrealProject).
+[2020.03.23-21.50.10:270][ 17]CompilerResultsLog: Building GameEditor...
+[2020.03.23-21.50.10:270][ 17]CompilerResultsLog: Using Visual Studio 2017 14.16.27034 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.03.23-21.50.10:270][ 17]CompilerResultsLog: Building 4 actions with 16 processes...
+[2020.03.23-21.50.10:270][ 17]CompilerResultsLog:   [1/4] CollisionDetector.cpp
+[2020.03.23-21.50.10:270][ 17]CompilerResultsLog:    C:\Users\Ernie\Desktop\UnrealProject\Game\Source\Game\CollisionDetector.cpp(15) : error C2039: 'Tick': is not a member of 'CollisionDetector'
+[2020.03.23-21.50.10:270][ 17]CompilerResultsLog:   c:\users\ernie\desktop\unrealproject\game\source\game\CollisionDetector.h(10): note: see declaration of 'CollisionDetector'
+[2020.03.23-21.50.10:270][ 17]CompilerResultsLog:   C:\Users\Ernie\Desktop\UnrealProject\Game\Source\Game\CollisionDetector.cpp(16): fatal error C1004: unexpected end-of-file found
+[2020.03.23-21.50.10:270][ 17]LogMainFrame: MainFrame: Module compiling took 1.148 seconds
+[2020.03.23-21.50.10:270][ 17]Warning: HotReload failed, recompile failed
+[2020.03.23-21.50.27:188][731]Candidate modules for hot reload:
+[2020.03.23-21.50.27:188][731]  Game
+[2020.03.23-21.50.27:188][731]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Game,1591 Win64 Development -TargetType=Editor -Project="C:/Users/Ernie/Desktop/UnrealProject/Game/Game.uproject" "C:/Users/Ernie/Desktop/UnrealProject/Game/Game.uproject"  -IgnoreJunk]
+[2020.03.23-21.50.27:192][731]Warning: Starting HotReload took  0.0s.
+[2020.03.23-21.50.28:686][806]LogSlate: Window 'Message Log' being destroyed
+[2020.03.23-21.50.28:692][806]LogSlate: Window 'Message Log' being destroyed
+[2020.03.23-21.50.29:429][851]CompilerResultsLog: New page: Compilation - 23 Mar 2020, 23:50:29
+[2020.03.23-21.50.29:429][851]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Ernie\Desktop\UnrealProject).
+[2020.03.23-21.50.29:429][851]CompilerResultsLog: Building GameEditor...
+[2020.03.23-21.50.29:429][851]CompilerResultsLog: Using Visual Studio 2017 14.16.27034 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.03.23-21.50.29:429][851]CompilerResultsLog: Building 4 actions with 16 processes...
+[2020.03.23-21.50.29:429][851]CompilerResultsLog:   [1/4] CollisionDetector.cpp
+[2020.03.23-21.50.29:429][851]CompilerResultsLog:   [2/4] UE4Editor-Game-1591.lib
+[2020.03.23-21.50.29:429][851]CompilerResultsLog:      Creating library C:\Users\Ernie\Desktop\UnrealProject\Game\Intermediate\Build\Win64\UE4Editor\Development\Game\UE4Editor-Game-1591.lib and object C:\Users\Ernie\Desktop\UnrealProject\Game\Intermediate\Build\Win64\UE4Editor\Development\Game\UE4Editor-Game-1591.exp
+[2020.03.23-21.50.29:429][851]CompilerResultsLog:   [3/4] UE4Editor-Game-1591.dll
+[2020.03.23-21.50.29:429][851]CompilerResultsLog:      Creating library C:\Users\Ernie\Desktop\UnrealProject\Game\Intermediate\Build\Win64\UE4Editor\Development\Game\UE4Editor-Game-1591.suppressed.lib and object C:\Users\Ernie\Desktop\UnrealProject\Game\Intermediate\Build\Win64\UE4Editor\Development\Game\UE4Editor-Game-1591.suppressed.exp
+[2020.03.23-21.50.29:429][851]CompilerResultsLog:   [4/4] GameEditor.target
+[2020.03.23-21.50.29:429][851]CompilerResultsLog: Total time in Parallel executor: 1,38 seconds
+[2020.03.23-21.50.29:429][851]CompilerResultsLog: Total execution time: 2,17 seconds
+[2020.03.23-21.50.29:429][851]LogMainFrame: MainFrame: Module compiling took 2.252 seconds
+[2020.03.23-21.50.29:461][851]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2020.03.23-21.50.29:479][851]LogClass: Could not find existing class MyPawn in package /Script/Game for HotReload, assuming new class
+[2020.03.23-21.50.29:484][851]LogContentBrowser: Native class hierarchy updated for 'Game' in 0.0003 seconds. Added 5 classes and 2 folders.
+[2020.03.23-21.50.29:486][851]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2020.03.23-21.50.29:548][851]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2020.03.23-21.50.29:558][851]LogContentBrowser: Native class hierarchy populated in 0.0065 seconds. Added 3022 classes and 722 folders.
+[2020.03.23-21.50.29:558][851]Display: HotReload took  2.4s.
+[2020.03.23-21.50.34:447][141]LogAssetEditorSubsystem: Opening Asset editor for Class /Script/Game.MyPawn
+[2020.03.23-21.52.07:650][564]Candidate modules for hot reload:
+[2020.03.23-21.52.07:650][564]  Game
+[2020.03.23-21.52.07:650][564]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Game,9216 Win64 Development -TargetType=Editor -Project="C:/Users/Ernie/Desktop/UnrealProject/Game/Game.uproject" "C:/Users/Ernie/Desktop/UnrealProject/Game/Game.uproject"  -IgnoreJunk]
+[2020.03.23-21.52.07:654][564]Warning: Starting HotReload took  0.0s.
+[2020.03.23-21.52.09:819][680]CompilerResultsLog: New page: Compilation - 23 Mar 2020, 23:52:09
+[2020.03.23-21.52.09:819][680]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Ernie\Desktop\UnrealProject).
+[2020.03.23-21.52.09:819][680]CompilerResultsLog: Building GameEditor...
+[2020.03.23-21.52.09:819][680]CompilerResultsLog: Using Visual Studio 2017 14.16.27034 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.03.23-21.52.09:819][680]CompilerResultsLog: Building 5 actions with 16 processes...
+[2020.03.23-21.52.09:819][680]CompilerResultsLog:   [1/5] CollisionDetector.cpp
+[2020.03.23-21.52.09:819][680]CompilerResultsLog:   [2/5] MyPawn.cpp
+[2020.03.23-21.52.09:819][680]CompilerResultsLog:   [3/5] UE4Editor-Game-9216.lib
+[2020.03.23-21.52.09:819][680]CompilerResultsLog:      Creating library C:\Users\Ernie\Desktop\UnrealProject\Game\Intermediate\Build\Win64\UE4Editor\Development\Game\UE4Editor-Game-9216.lib and object C:\Users\Ernie\Desktop\UnrealProject\Game\Intermediate\Build\Win64\UE4Editor\Development\Game\UE4Editor-Game-9216.exp
+[2020.03.23-21.52.09:819][680]CompilerResultsLog:   [4/5] UE4Editor-Game-9216.dll
+[2020.03.23-21.52.09:819][680]CompilerResultsLog:      Creating library C:\Users\Ernie\Desktop\UnrealProject\Game\Intermediate\Build\Win64\UE4Editor\Development\Game\UE4Editor-Game-9216.suppressed.lib and object C:\Users\Ernie\Desktop\UnrealProject\Game\Intermediate\Build\Win64\UE4Editor\Development\Game\UE4Editor-Game-9216.suppressed.exp
+[2020.03.23-21.52.09:819][680]CompilerResultsLog:   [5/5] GameEditor.target
+[2020.03.23-21.52.09:819][680]CompilerResultsLog: Total time in Parallel executor: 1,34 seconds
+[2020.03.23-21.52.09:819][680]CompilerResultsLog: Total execution time: 2,08 seconds
+[2020.03.23-21.52.09:819][680]LogMainFrame: MainFrame: Module compiling took 2.181 seconds
+[2020.03.23-21.52.09:851][680]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2020.03.23-21.52.09:873][680]LogContentBrowser: Native class hierarchy updated for 'Game' in 0.0003 seconds. Added 5 classes and 2 folders.
+[2020.03.23-21.52.09:874][680]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2020.03.23-21.52.09:933][680]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2020.03.23-21.52.09:943][680]LogContentBrowser: Native class hierarchy populated in 0.0065 seconds. Added 3022 classes and 722 folders.
+[2020.03.23-21.52.09:943][680]Display: HotReload took  2.3s.
+[2020.03.23-21.52.13:441][887]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.23-21.52.13:450][887]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.23-21.52.13:450][887]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.23-21.52.13:450][887]PIE: New page: PIE session: FirstPersonExampleMap (23 Mar 2020, 23:52:13)
+[2020.03.23-21.52.13:450][887]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.03.23-21.52.13:460][887]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010324s)
+[2020.03.23-21.52.13:461][887]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.03.23-21.52.13:461][887]LogPlayLevel: PIE: World Init took: (0.001710s)
+[2020.03.23-21.52.13:461][887]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.012210s)
+[2020.03.23-21.52.13:496][887]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2020.03.23-21.52.13:497][887]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.23-21.52.13:497][887]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.23-21.52.13:497][887]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.23-21.52.13:497][887]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.23-21.52.13:497][887]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.23-21.52.13:497][887]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.23-21.52.13:497][887]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.23-21.52.13:497][887]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.23-21.52.13:497][887]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.23-21.52.13:497][887]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.23-21.52.13:515][887]LogAudioMixer: Warning: Did not find the channel type flags for audio device 'Speakers (Scarlett 2i4 USB)'. Reverting to a default channel ordering.
+[2020.03.23-21.52.13:515][887]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.23-21.52.13:515][887]LogAudioMixer: Display: Name: Speakers (Scarlett 2i4 USB)
+[2020.03.23-21.52.13:515][887]LogAudioMixer: Display: Is Default: Yes
+[2020.03.23-21.52.13:515][887]LogAudioMixer: Display: Sample Rate: 44100
+[2020.03.23-21.52.13:515][887]LogAudioMixer: Display: Channel Count Used: 4
+[2020.03.23-21.52.13:515][887]LogAudioMixer: Display: Device Channel Count: 4
+[2020.03.23-21.52.13:515][887]LogAudioMixer: Display: Channel Order:
+[2020.03.23-21.52.13:515][887]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.23-21.52.13:515][887]LogAudioMixer: Display: 1: FrontRight
+[2020.03.23-21.52.13:515][887]LogAudioMixer: Display: 2: BackLeft
+[2020.03.23-21.52.13:515][887]LogAudioMixer: Display: 3: BackRight
+[2020.03.23-21.52.13:521][887]LogAudioMixer: Display: Using Audio Device Speakers (Scarlett 2i4 USB)
+[2020.03.23-21.52.13:522][887]LogInit: FAudioDevice initialized.
+[2020.03.23-21.52.13:529][887]LogLoad: Game class is 'GameGameMode'
+[2020.03.23-21.52.13:531][887]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.03.23-22.52.13
+[2020.03.23-21.52.13:532][887]LogWorld: Bringing up level for play took: 0.001444
+[2020.03.23-21.52.13:532][887]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2020.03.23-21.52.13:533][887]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap 0,484
+[2020.03.23-21.52.13:533][887]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.23-21.52.19:968][272]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.23-21.52.19:968][272]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.23-21.52.19:968][272]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.23-21.52.19:968][272]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.23-21.52.19:968][272]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.03.23-21.52.19:968][272]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.23-21.52.19:968][272]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.23-21.52.19:968][272]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.23-21.52.19:975][272]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.23-21.52.19:975][272]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.23-21.52.19:977][272]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.23-21.52.20:009][272]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.23-21.52.20:011][272]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.23-21.52.20:013][272]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2020.03.23-21.52.20:077][276]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.03.23-21.55.43:542][328]LogSlate: Took 0.005900 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.03.23-21.56.23:817][376]MapCheck: New page: Map Check
+[2020.03.23-21.56.23:839][376]Cmd: MAP REBUILD ALLVISIBLE
+[2020.03.23-21.56.23:840][376]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.03.23-21.56.23:844][376]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=false
+[2020.03.23-21.56.23:901][376]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2020.03.23-21.56.23:915][376]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.23-21.56.23:933][376]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2020.03.23-21.56.23:933][376]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2020.03.23-21.56.23:933][376]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.23-21.56.23:945][376]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.23-21.56.23:962][376]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2020.03.23-21.56.23:962][376]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2020.03.23-21.56.23:962][376]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.23-21.56.23:978][376]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 4
+[2020.03.23-21.56.23:978][376]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 3
+[2020.03.23-21.56.23:978][376]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2
+[2020.03.23-21.56.23:978][376]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1
+[2020.03.23-21.56.23:978][376]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.23-21.56.23:993][376]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.23-21.56.24:011][376]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 4
+[2020.03.23-21.56.24:011][376]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 3
+[2020.03.23-21.56.24:011][376]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2020.03.23-21.56.24:011][376]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1
+[2020.03.23-21.56.24:011][376]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.23-21.56.24:511][376]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2020.03.23-21.56.24:511][376]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 1
+[2020.03.23-21.56.24:511][376]TextureStreamingBuild: Display: Compiling optional shaders took 0.608 seconds.
+[2020.03.23-21.56.24:546][376]LogLevel: Display: Export Material TexCoord Scales took 0.035 seconds.
+[2020.03.23-21.56.24:550][376]TextureStreamingBuild: Display: Build Texture Streaming took 0.003 seconds.
+[2020.03.23-21.56.24:578][376]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.03.23-21.56.24:582][376]LightingResults: New page: Lighting Build - 23 Mar 2020, 23:56:24
+[2020.03.23-21.56.24:619][376]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.03.23-21.56.24:660][376]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.03.23-21.56.24:672][376]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.03.23-21.56.25:181][376]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.03.23-21.56.25:181][376]LogSwarmInterface: [TryOpenConnection] Local Process ID is 324
+[2020.03.23-21.56.28:312][376]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.03.23-21.56.28:312][376]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.03.23-21.56.28:312][376]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.03.23-21.56.28:312][376]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.03.23-21.56.28:312][376]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.03.23-21.56.28:459][376]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.03.23-21.56.28:459][376]MapCheck: New page: FirstPersonExampleMap - 23 Mar 2020, 23:56:28
+[2020.03.23-21.56.28:460][376]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1,208ms to complete.
+[2020.03.23-21.56.28:462][376]LogEditorBuildUtils: Build time 0:04
+[2020.03.23-21.56.28:484][376]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2020.03.23-21.56.28:498][376]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2020.03.23-21.56.28:498][376]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2020.03.23-21.56.28:498][376]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2020.03.23-21.56.28:567][377]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2020.03.23-21.56.28:567][377]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2020.03.23-21.56.28:578][377]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer CubeMaterial, compiling. 
+[2020.03.23-21.56.28:591][377]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2
+[2020.03.23-21.56.28:591][377]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1
+[2020.03.23-21.56.28:591][377]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer CubeMaterial, compiling. 
+[2020.03.23-21.56.28:598][377]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2
+[2020.03.23-21.56.28:598][377]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1
+[2020.03.23-21.56.28:698][378]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2020.03.23-21.56.28:717][378]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2020.03.23-21.56.28:717][378]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2020.03.23-21.56.28:717][378]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2020.03.23-21.56.28:793][378]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2020.03.23-21.56.28:793][378]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1
+[2020.03.23-21.56.29:310][385]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.03.23-21.56.29:997][386]Candidate modules for hot reload:
+[2020.03.23-21.56.29:997][386]  Game
+[2020.03.23-21.56.29:997][386]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Game,1859 Win64 Development -TargetType=Editor -Project="C:/Users/Ernie/Desktop/UnrealProject/Game/Game.uproject" "C:/Users/Ernie/Desktop/UnrealProject/Game/Game.uproject"  -IgnoreJunk]
+[2020.03.23-21.56.30:000][386]Warning: Starting HotReload took  0.0s.
+[2020.03.23-21.56.32:665][521]CompilerResultsLog: New page: Compilation - 23 Mar 2020, 23:56:32
+[2020.03.23-21.56.32:665][521]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Ernie\Desktop\UnrealProject).
+[2020.03.23-21.56.32:665][521]CompilerResultsLog: Building GameEditor...
+[2020.03.23-21.56.32:665][521]CompilerResultsLog: Using Visual Studio 2017 14.16.27034 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.03.23-21.56.32:665][521]CompilerResultsLog: Building 4 actions with 16 processes...
+[2020.03.23-21.56.32:665][521]CompilerResultsLog:   [1/4] MyPawn.cpp
+[2020.03.23-21.56.32:665][521]CompilerResultsLog:   [2/4] UE4Editor-Game-1859.lib
+[2020.03.23-21.56.32:665][521]CompilerResultsLog:      Creating library C:\Users\Ernie\Desktop\UnrealProject\Game\Intermediate\Build\Win64\UE4Editor\Development\Game\UE4Editor-Game-1859.lib and object C:\Users\Ernie\Desktop\UnrealProject\Game\Intermediate\Build\Win64\UE4Editor\Development\Game\UE4Editor-Game-1859.exp
+[2020.03.23-21.56.32:665][521]CompilerResultsLog:   [3/4] UE4Editor-Game-1859.dll
+[2020.03.23-21.56.32:665][521]CompilerResultsLog:      Creating library C:\Users\Ernie\Desktop\UnrealProject\Game\Intermediate\Build\Win64\UE4Editor\Development\Game\UE4Editor-Game-1859.suppressed.lib and object C:\Users\Ernie\Desktop\UnrealProject\Game\Intermediate\Build\Win64\UE4Editor\Development\Game\UE4Editor-Game-1859.suppressed.exp
+[2020.03.23-21.56.32:665][521]CompilerResultsLog:   [4/4] GameEditor.target
+[2020.03.23-21.56.32:665][521]CompilerResultsLog: Total time in Parallel executor: 1,65 seconds
+[2020.03.23-21.56.32:665][521]CompilerResultsLog: Total execution time: 2,57 seconds
+[2020.03.23-21.56.32:665][521]LogMainFrame: MainFrame: Module compiling took 2.681 seconds
+[2020.03.23-21.56.32:698][521]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.03.23-21.56.32:720][521]LogContentBrowser: Native class hierarchy updated for 'Game' in 0.0003 seconds. Added 5 classes and 2 folders.
+[2020.03.23-21.56.32:722][521]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2020.03.23-21.56.32:792][521]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2020.03.23-21.56.32:802][521]LogContentBrowser: Native class hierarchy populated in 0.0067 seconds. Added 3022 classes and 722 folders.
+[2020.03.23-21.56.32:802][521]Display: HotReload took  2.8s.
+[2020.03.23-21.56.47:981][405]Job is a success!
+[2020.03.23-21.56.48:189][406]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.013s
+[2020.03.23-21.56.48:189][406]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.03.23-21.56.48:190][406]LogVolumetricLightmapImport:      BrickData (all levels) 0.3Mb
+[2020.03.23-21.56.48:190][406]LogVolumetricLightmapImport:      Bricks at depth
+[2020.03.23-21.56.48:190][406]LogVolumetricLightmapImport:          0: 1.5% covering 100.0% of volume
+[2020.03.23-21.56.48:190][406]LogVolumetricLightmapImport:          1: 5.9% covering 6.3% of volume
+[2020.03.23-21.56.48:190][406]LogVolumetricLightmapImport:          2: 92.6% covering 1.5% of volume
+[2020.03.23-21.56.48:190][406]LogVolumetricLightmapImport:      Bricks in each level
+[2020.03.23-21.56.48:190][406]LogVolumetricLightmapImport:          FirstPersonExampleMap 			 68 bricks 	 100.0% (Persistent Level)
+[2020.03.23-21.56.49:500][406]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 2048X1024)
+[2020.03.23-21.56.49:500][406]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 2048X2048)
+[2020.03.23-21.56.49:500][406]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 2048X2048)
+[2020.03.23-21.56.49:500][406]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 2048X1024)
+[2020.03.23-21.56.49:500][406]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 2048X2048)
+[2020.03.23-21.56.49:501][406]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 2048X2048)
+[2020.03.23-21.56.49:501][406]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 2048X1024)
+[2020.03.23-21.56.49:501][406]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 2048X2048)
+[2020.03.23-21.56.49:501][406]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 2048X2048)
+[2020.03.23-21.56.49:501][406]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 2048X1024)
+[2020.03.23-21.56.49:501][406]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 2048X2048)
+[2020.03.23-21.56.49:501][406]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 2048X2048)
+[2020.03.23-21.56.49:501][406]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 64X32)
+[2020.03.23-21.56.49:501][406]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 64X64)
+[2020.03.23-21.56.49:501][406]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 64X64)
+[2020.03.23-21.56.49:701][406]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 32X32)
+[2020.03.23-21.56.49:780][406]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X1024)
+[2020.03.23-21.56.49:780][406]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 1024X1024)
+[2020.03.23-21.56.49:780][406]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 1024X1024)
+[2020.03.23-21.56.49:780][406]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 1024X1024)
+[2020.03.23-21.56.49:780][406]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 1024X1024)
+[2020.03.23-21.56.49:780][406]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X1024)
+[2020.03.23-21.56.49:780][406]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 1024X1024)
+[2020.03.23-21.56.49:781][406]LogStaticLightingSystem: FirstPersonExampleMap_BuiltData storing lightmap data for 8 meshes in 8 LightmapResourceClusters (1.0 Meshes per cluster).
+[2020.03.23-21.56.49:783][406]Lightmass on LAPTOP-UQ0GI9UQ: 19.6 sec total, 155 ms importing, 19 ms setup, 4.10 sec photons, 15.3 sec processing, 0 ms extra exporting [8/8 mappings]. Threads: 3:50 min total, 1:11 min processing.
+[2020.03.23-21.56.49:814][406]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2020.03.23-21.56.49:835][406]LogStaticLightingSystem: Illumination: 25.2 sec (1.06 sec encoding lightmaps, 264 ms encoding shadowmaps)
+[2020.03.23-21.56.49:835][406]LogStaticLightingSystem: Lightmap texture memory:  42.7 MB (42.7 MB streaming, 0.0 MB non-streaming), 10 textures
+[2020.03.23-21.56.49:835][406]LogStaticLightingSystem: Shadowmap texture memory: 9.3 MB (9.3 MB streaming, 0.0 MB non-streaming), 8 textures
+[2020.03.23-21.56.50:331][406]DumpUnbuiltLightIteractions
+[2020.03.23-21.56.50:331][406]Lights with unbuilt interactions: 0
+[2020.03.23-21.56.50:331][406]
+[2020.03.23-21.56.50:331][406]Primitives with unbuilt interactions: 0
+[2020.03.23-21.56.50:436][407]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.03.23-21.56.50:436][407]MapCheck: New page: FirstPersonExampleMap - 23 Mar 2020, 23:56:50
+[2020.03.23-21.56.50:436][407]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,299ms to complete.
+[2020.03.23-21.56.57:266][813]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.23-21.56.57:276][813]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.23-21.56.57:276][813]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.23-21.56.57:276][813]PIE: New page: PIE session: FirstPersonExampleMap (23 Mar 2020, 23:56:57)
+[2020.03.23-21.56.57:276][813]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.03.23-21.56.57:287][813]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010748s)
+[2020.03.23-21.56.57:289][813]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.03.23-21.56.57:289][813]LogPlayLevel: PIE: World Init took: (0.001572s)
+[2020.03.23-21.56.57:289][813]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.012510s)
+[2020.03.23-21.56.57:321][813]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2020.03.23-21.56.57:325][813]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.23-21.56.57:325][813]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.23-21.56.57:325][813]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.23-21.56.57:325][813]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.23-21.56.57:325][813]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.23-21.56.57:325][813]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.23-21.56.57:325][813]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.23-21.56.57:325][813]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.23-21.56.57:325][813]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.23-21.56.57:325][813]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.23-21.56.57:343][813]LogAudioMixer: Warning: Did not find the channel type flags for audio device 'Speakers (Scarlett 2i4 USB)'. Reverting to a default channel ordering.
+[2020.03.23-21.56.57:343][813]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.23-21.56.57:343][813]LogAudioMixer: Display: Name: Speakers (Scarlett 2i4 USB)
+[2020.03.23-21.56.57:343][813]LogAudioMixer: Display: Is Default: Yes
+[2020.03.23-21.56.57:343][813]LogAudioMixer: Display: Sample Rate: 44100
+[2020.03.23-21.56.57:343][813]LogAudioMixer: Display: Channel Count Used: 4
+[2020.03.23-21.56.57:343][813]LogAudioMixer: Display: Device Channel Count: 4
+[2020.03.23-21.56.57:343][813]LogAudioMixer: Display: Channel Order:
+[2020.03.23-21.56.57:343][813]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.23-21.56.57:343][813]LogAudioMixer: Display: 1: FrontRight
+[2020.03.23-21.56.57:343][813]LogAudioMixer: Display: 2: BackLeft
+[2020.03.23-21.56.57:343][813]LogAudioMixer: Display: 3: BackRight
+[2020.03.23-21.56.57:349][813]LogAudioMixer: Display: Using Audio Device Speakers (Scarlett 2i4 USB)
+[2020.03.23-21.56.57:350][813]LogInit: FAudioDevice initialized.
+[2020.03.23-21.56.57:356][813]LogLoad: Game class is 'GameGameMode'
+[2020.03.23-21.56.57:358][813]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.03.23-22.56.57
+[2020.03.23-21.56.57:358][813]LogWorld: Bringing up level for play took: 0.001209
+[2020.03.23-21.56.57:358][813]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2020.03.23-21.56.57:359][813]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap 0,31
+[2020.03.23-21.56.57:359][813]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.23-21.56.59:457][938]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.23-21.56.59:468][938]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.23-21.56.59:487][938]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.23-21.56.59:487][938]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.23-21.56.59:488][938]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.23-21.56.59:488][938]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.03.23-21.56.59:488][938]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.23-21.56.59:488][938]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.23-21.56.59:488][938]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.23-21.56.59:492][938]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.23-21.56.59:492][938]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.23-21.56.59:495][938]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.23-21.56.59:525][938]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.23-21.56.59:527][938]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.23-21.56.59:530][938]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2020.03.23-21.56.59:562][940]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.03.23-21.57.31:537][496]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.03.23-21.57.31:656][496]LogSavePackage: Moving '../../../../../../Users/Ernie/Desktop/UnrealProject/Game/Saved/FirstPersonExampleMap_Auto2DEC31AA74A4EA7CE38AF74A1B269F0D9.tmp' to '../../../../../../Users/Ernie/Desktop/UnrealProject/Game/Saved/Autosaves/Game/FirstPersonCPP/Maps/FirstPersonExampleMap_Auto2.umap'
+[2020.03.23-21.57.31:659][496]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap' took 0.154
+[2020.03.23-21.57.31:660][496]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.154
+[2020.03.23-21.58.02:156][290]LogSlate: WidgetSwitcher ('None') active index changed to -1
+[2020.03.23-21.58.02:156][290]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.03.23-21.58.07:242][290]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.03.23-21.58.14:811][290]Candidate modules for hot reload:
+[2020.03.23-21.58.14:811][290]  Game
+[2020.03.23-21.58.14:811][290]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Game,2141 Win64 Development -TargetType=Editor -Project="C:/Users/Ernie/Desktop/UnrealProject/Game/Game.uproject" "C:/Users/Ernie/Desktop/UnrealProject/Game/Game.uproject"  -IgnoreJunk]
+[2020.03.23-21.58.22:810][290]CompilerResultsLog: New page: Compilation - 23 Mar 2020, 23:58:22
+[2020.03.23-21.58.22:810][290]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Ernie\Desktop\UnrealProject).
+[2020.03.23-21.58.22:810][290]CompilerResultsLog: Invalidating makefile for GameEditor (source file added)
+[2020.03.23-21.58.22:810][290]CompilerResultsLog: Parsing headers for GameEditor
+[2020.03.23-21.58.22:810][290]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Ernie\Desktop\UnrealProject\Game\Game.uproject" "C:\Users\Ernie\Desktop\UnrealProject\Game\Intermediate\Build\Win64\GameEditor\Development\GameEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.03.23-21.58.22:810][290]CompilerResultsLog: Reflection code generated for GameEditor in 4,9798388 seconds
+[2020.03.23-21.58.22:810][290]CompilerResultsLog: Building GameEditor...
+[2020.03.23-21.58.22:810][290]CompilerResultsLog: Using Visual Studio 2017 14.16.27034 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.03.23-21.58.22:810][290]CompilerResultsLog: Building 6 actions with 16 processes...
+[2020.03.23-21.58.22:810][290]CompilerResultsLog:   [1/6] Game.init.gen.cpp
+[2020.03.23-21.58.22:810][290]CompilerResultsLog:   [2/6] TestActorComponent.cpp
+[2020.03.23-21.58.22:810][290]CompilerResultsLog:   [3/6] TestActorComponent.gen.cpp
+[2020.03.23-21.58.22:810][290]CompilerResultsLog:   [4/6] UE4Editor-Game-2141.lib
+[2020.03.23-21.58.22:810][290]CompilerResultsLog:      Creating library C:\Users\Ernie\Desktop\UnrealProject\Game\Intermediate\Build\Win64\UE4Editor\Development\Game\UE4Editor-Game-2141.lib and object C:\Users\Ernie\Desktop\UnrealProject\Game\Intermediate\Build\Win64\UE4Editor\Development\Game\UE4Editor-Game-2141.exp
+[2020.03.23-21.58.22:810][290]CompilerResultsLog:   [5/6] UE4Editor-Game-2141.dll
+[2020.03.23-21.58.22:810][290]CompilerResultsLog:      Creating library C:\Users\Ernie\Desktop\UnrealProject\Game\Intermediate\Build\Win64\UE4Editor\Development\Game\UE4Editor-Game-2141.suppressed.lib and object C:\Users\Ernie\Desktop\UnrealProject\Game\Intermediate\Build\Win64\UE4Editor\Development\Game\UE4Editor-Game-2141.suppressed.exp
+[2020.03.23-21.58.22:810][290]CompilerResultsLog:   [6/6] GameEditor.target
+[2020.03.23-21.58.22:810][290]CompilerResultsLog: Total time in Parallel executor: 1,41 seconds
+[2020.03.23-21.58.22:810][290]CompilerResultsLog: Total execution time: 7,92 seconds
+[2020.03.23-21.58.22:810][290]LogMainFrame: MainFrame: Module compiling took 8.010 seconds
+[2020.03.23-21.58.22:839][290]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2020.03.23-21.58.22:857][290]LogClass: Could not find existing class TestActorComponent in package /Script/Game for HotReload, assuming new class
+[2020.03.23-21.58.22:862][290]LogContentBrowser: Native class hierarchy updated for 'Game' in 0.0003 seconds. Added 6 classes and 2 folders.
+[2020.03.23-21.58.22:864][290]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2020.03.23-21.58.22:922][290]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2020.03.23-21.58.22:933][290]LogContentBrowser: Native class hierarchy populated in 0.0065 seconds. Added 3023 classes and 722 folders.
+[2020.03.23-21.58.22:933][290]Display: HotReload took  8.1s.
+[2020.03.23-21.58.22:938][290]Warning: HotReload operation took  8.1s.
+[2020.03.23-21.58.23:744][290]LogSlate: Window 'Add C++ Component' being destroyed
+[2020.03.23-21.58.23:759][290]LogHotReload: New module detected: UE4Editor-Game-2141.dll
+[2020.03.23-21.58.23:819][291]LogHotReload: Starting Hot-Reload from IDE
+[2020.03.23-21.58.23:879][291]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.03.23-21.58.23:881][291]LogContentBrowser: Native class hierarchy updated for 'Game' in 0.0003 seconds. Added 6 classes and 2 folders.
+[2020.03.23-21.58.23:883][291]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.03.23-21.58.23:912][291]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.03.23-21.58.23:923][291]LogContentBrowser: Native class hierarchy populated in 0.0068 seconds. Added 3023 classes and 722 folders.
+[2020.03.23-21.58.23:933][291]Display: HotReload took  0.1s.
+[2020.03.23-21.59.15:576][577]Candidate modules for hot reload:
+[2020.03.23-21.59.15:576][577]  Game
+[2020.03.23-21.59.15:577][577]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Game,9811 Win64 Development -TargetType=Editor -Project="C:/Users/Ernie/Desktop/UnrealProject/Game/Game.uproject" "C:/Users/Ernie/Desktop/UnrealProject/Game/Game.uproject"  -IgnoreJunk]
+[2020.03.23-21.59.15:580][577]Warning: Starting HotReload took  0.0s.
+[2020.03.23-21.59.17:782][694]CompilerResultsLog: New page: Compilation - 23 Mar 2020, 23:59:17
+[2020.03.23-21.59.17:782][694]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Ernie\Desktop\UnrealProject).
+[2020.03.23-21.59.17:782][694]CompilerResultsLog: Building GameEditor...
+[2020.03.23-21.59.17:782][694]CompilerResultsLog: Using Visual Studio 2017 14.16.27034 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.03.23-21.59.17:782][694]CompilerResultsLog: Building 5 actions with 16 processes...
+[2020.03.23-21.59.17:782][694]CompilerResultsLog:   [1/5] MyPawn.cpp
+[2020.03.23-21.59.17:782][694]CompilerResultsLog:   [2/5] TestActorComponent.cpp
+[2020.03.23-21.59.17:782][694]CompilerResultsLog:   [3/5] UE4Editor-Game-9811.lib
+[2020.03.23-21.59.17:782][694]CompilerResultsLog:      Creating library C:\Users\Ernie\Desktop\UnrealProject\Game\Intermediate\Build\Win64\UE4Editor\Development\Game\UE4Editor-Game-9811.lib and object C:\Users\Ernie\Desktop\UnrealProject\Game\Intermediate\Build\Win64\UE4Editor\Development\Game\UE4Editor-Game-9811.exp
+[2020.03.23-21.59.17:782][694]CompilerResultsLog:   [4/5] UE4Editor-Game-9811.dll
+[2020.03.23-21.59.17:782][694]CompilerResultsLog:      Creating library C:\Users\Ernie\Desktop\UnrealProject\Game\Intermediate\Build\Win64\UE4Editor\Development\Game\UE4Editor-Game-9811.suppressed.lib and object C:\Users\Ernie\Desktop\UnrealProject\Game\Intermediate\Build\Win64\UE4Editor\Development\Game\UE4Editor-Game-9811.suppressed.exp
+[2020.03.23-21.59.17:783][694]CompilerResultsLog:   [5/5] GameEditor.target
+[2020.03.23-21.59.17:783][694]CompilerResultsLog: Total time in Parallel executor: 1,40 seconds
+[2020.03.23-21.59.17:783][694]CompilerResultsLog: Total execution time: 2,13 seconds
+[2020.03.23-21.59.17:783][694]LogMainFrame: MainFrame: Module compiling took 2.217 seconds
+[2020.03.23-21.59.17:812][694]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.03.23-21.59.17:836][694]LogContentBrowser: Native class hierarchy updated for 'Game' in 0.0003 seconds. Added 6 classes and 2 folders.
+[2020.03.23-21.59.17:837][694]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2020.03.23-21.59.17:897][694]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2020.03.23-21.59.17:907][694]LogContentBrowser: Native class hierarchy populated in 0.0064 seconds. Added 3023 classes and 722 folders.
+[2020.03.23-21.59.17:907][694]Display: HotReload took  2.3s.
+[2020.03.23-21.59.22:009][936]LogSlate: Took 0.004948 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.03.23-21.59.37:328][822]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.23-21.59.37:337][822]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.23-21.59.37:337][822]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.23-21.59.37:337][822]PIE: New page: PIE session: FirstPersonExampleMap (23 Mar 2020, 23:59:37)
+[2020.03.23-21.59.37:337][822]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.03.23-21.59.37:348][822]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010549s)
+[2020.03.23-21.59.37:350][822]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.03.23-21.59.37:350][822]LogPlayLevel: PIE: World Init took: (0.001934s)
+[2020.03.23-21.59.37:350][822]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.012699s)
+[2020.03.23-21.59.37:385][822]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2020.03.23-21.59.37:386][822]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.23-21.59.37:386][822]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.23-21.59.37:386][822]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.23-21.59.37:386][822]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.23-21.59.37:386][822]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.23-21.59.37:386][822]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.23-21.59.37:386][822]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.23-21.59.37:386][822]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.23-21.59.37:386][822]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.23-21.59.37:386][822]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.23-21.59.37:403][822]LogAudioMixer: Warning: Did not find the channel type flags for audio device 'Speakers (Scarlett 2i4 USB)'. Reverting to a default channel ordering.
+[2020.03.23-21.59.37:403][822]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.23-21.59.37:403][822]LogAudioMixer: Display: Name: Speakers (Scarlett 2i4 USB)
+[2020.03.23-21.59.37:403][822]LogAudioMixer: Display: Is Default: Yes
+[2020.03.23-21.59.37:404][822]LogAudioMixer: Display: Sample Rate: 44100
+[2020.03.23-21.59.37:404][822]LogAudioMixer: Display: Channel Count Used: 4
+[2020.03.23-21.59.37:404][822]LogAudioMixer: Display: Device Channel Count: 4
+[2020.03.23-21.59.37:404][822]LogAudioMixer: Display: Channel Order:
+[2020.03.23-21.59.37:404][822]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.23-21.59.37:404][822]LogAudioMixer: Display: 1: FrontRight
+[2020.03.23-21.59.37:404][822]LogAudioMixer: Display: 2: BackLeft
+[2020.03.23-21.59.37:404][822]LogAudioMixer: Display: 3: BackRight
+[2020.03.23-21.59.37:409][822]LogAudioMixer: Display: Using Audio Device Speakers (Scarlett 2i4 USB)
+[2020.03.23-21.59.37:411][822]LogInit: FAudioDevice initialized.
+[2020.03.23-21.59.37:419][822]LogLoad: Game class is 'GameGameMode'
+[2020.03.23-21.59.37:421][822]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.03.23-22.59.37
+[2020.03.23-21.59.37:421][822]LogWorld: Bringing up level for play took: 0.001442
+[2020.03.23-21.59.37:421][822]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2020.03.23-21.59.37:422][822]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap 0,373
+[2020.03.23-21.59.37:423][822]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.23-21.59.37:423][822]LogTemp: Warning: Your message
+[2020.03.23-21.59.37:455][823]LogTemp: Warning: Your message
+[2020.03.23-21.59.37:471][824]LogTemp: Warning: Your message
+[2020.03.23-21.59.37:488][825]LogTemp: Warning: Your message
+[2020.03.23-21.59.37:505][826]LogTemp: Warning: Your message
+[2020.03.23-21.59.37:522][827]LogTemp: Warning: Your message
+[2020.03.23-21.59.37:538][828]LogTemp: Warning: Your message
+[2020.03.23-21.59.37:555][829]LogTemp: Warning: Your message
+[2020.03.23-21.59.37:571][830]LogTemp: Warning: Your message
+[2020.03.23-21.59.37:588][831]LogTemp: Warning: Your message
+[2020.03.23-21.59.37:605][832]LogTemp: Warning: Your message
+[2020.03.23-21.59.37:621][833]LogTemp: Warning: Your message
+[2020.03.23-21.59.37:638][834]LogTemp: Warning: Your message
+[2020.03.23-21.59.37:655][835]LogTemp: Warning: Your message
+[2020.03.23-21.59.37:672][836]LogTemp: Warning: Your message
+[2020.03.23-21.59.37:688][837]LogTemp: Warning: Your message
+[2020.03.23-21.59.37:705][838]LogTemp: Warning: Your message
+[2020.03.23-21.59.37:721][839]LogTemp: Warning: Your message
+[2020.03.23-21.59.37:738][840]LogTemp: Warning: Your message
+[2020.03.23-21.59.37:755][841]LogTemp: Warning: Your message
+[2020.03.23-21.59.37:771][842]LogTemp: Warning: Your message
+[2020.03.23-21.59.37:788][843]LogTemp: Warning: Your message
+[2020.03.23-21.59.37:805][844]LogTemp: Warning: Your message
+[2020.03.23-21.59.37:821][845]LogTemp: Warning: Your message
+[2020.03.23-21.59.37:838][846]LogTemp: Warning: Your message
+[2020.03.23-21.59.37:855][847]LogTemp: Warning: Your message
+[2020.03.23-21.59.37:872][848]LogTemp: Warning: Your message
+[2020.03.23-21.59.37:888][849]LogTemp: Warning: Your message
+[2020.03.23-21.59.37:905][850]LogTemp: Warning: Your message
+[2020.03.23-21.59.37:922][851]LogTemp: Warning: Your message
+[2020.03.23-21.59.37:938][852]LogTemp: Warning: Your message
+[2020.03.23-21.59.37:955][853]LogTemp: Warning: Your message
+[2020.03.23-21.59.37:972][854]LogTemp: Warning: Your message
+[2020.03.23-21.59.37:988][855]LogTemp: Warning: Your message
+[2020.03.23-21.59.38:005][856]LogTemp: Warning: Your message
+[2020.03.23-21.59.38:022][857]LogTemp: Warning: Your message
+[2020.03.23-21.59.38:038][858]LogTemp: Warning: Your message
+[2020.03.23-21.59.38:055][859]LogTemp: Warning: Your message
+[2020.03.23-21.59.38:071][860]LogTemp: Warning: Your message
+[2020.03.23-21.59.38:088][861]LogTemp: Warning: Your message
+[2020.03.23-21.59.38:105][862]LogTemp: Warning: Your message
+[2020.03.23-21.59.38:121][863]LogTemp: Warning: Your message
+[2020.03.23-21.59.38:138][864]LogTemp: Warning: Your message
+[2020.03.23-21.59.38:155][865]LogTemp: Warning: Your message
+[2020.03.23-21.59.38:172][866]LogTemp: Warning: Your message
+[2020.03.23-21.59.38:188][867]LogTemp: Warning: Your message
+[2020.03.23-21.59.38:205][868]LogTemp: Warning: Your message
+[2020.03.23-21.59.38:221][869]LogTemp: Warning: Your message
+[2020.03.23-21.59.38:238][870]LogTemp: Warning: Your message
+[2020.03.23-21.59.38:256][871]LogTemp: Warning: Your message
+[2020.03.23-21.59.38:271][872]LogTemp: Warning: Your message
+[2020.03.23-21.59.38:288][873]LogTemp: Warning: Your message
+[2020.03.23-21.59.38:305][874]LogTemp: Warning: Your message
+[2020.03.23-21.59.38:322][875]LogTemp: Warning: Your message
+[2020.03.23-21.59.38:339][876]LogTemp: Warning: Your message
+[2020.03.23-21.59.38:354][877]LogTemp: Warning: Your message
+[2020.03.23-21.59.38:372][878]LogTemp: Warning: Your message
+[2020.03.23-21.59.38:389][879]LogTemp: Warning: Your message
+[2020.03.23-21.59.38:405][880]LogTemp: Warning: Your message
+[2020.03.23-21.59.38:422][881]LogTemp: Warning: Your message
+[2020.03.23-21.59.38:438][882]LogTemp: Warning: Your message
+[2020.03.23-21.59.38:455][883]LogTemp: Warning: Your message
+[2020.03.23-21.59.38:473][884]LogTemp: Warning: Your message
+[2020.03.23-21.59.38:488][885]LogTemp: Warning: Your message
+[2020.03.23-21.59.38:505][886]LogTemp: Warning: Your message
+[2020.03.23-21.59.38:521][887]LogTemp: Warning: Your message
+[2020.03.23-21.59.38:538][888]LogTemp: Warning: Your message
+[2020.03.23-21.59.38:555][889]LogTemp: Warning: Your message
+[2020.03.23-21.59.38:572][890]LogTemp: Warning: Your message
+[2020.03.23-21.59.38:588][891]LogTemp: Warning: Your message
+[2020.03.23-21.59.38:605][892]LogTemp: Warning: Your message
+[2020.03.23-21.59.38:622][893]LogTemp: Warning: Your message
+[2020.03.23-21.59.38:638][894]LogTemp: Warning: Your message
+[2020.03.23-21.59.38:655][895]LogTemp: Warning: Your message
+[2020.03.23-21.59.38:672][896]LogTemp: Warning: Your message
+[2020.03.23-21.59.38:688][897]LogTemp: Warning: Your message
+[2020.03.23-21.59.38:705][898]LogTemp: Warning: Your message
+[2020.03.23-21.59.38:722][899]LogTemp: Warning: Your message
+[2020.03.23-21.59.38:738][900]LogTemp: Warning: Your message
+[2020.03.23-21.59.38:755][901]LogTemp: Warning: Your message
+[2020.03.23-21.59.38:772][902]LogTemp: Warning: Your message
+[2020.03.23-21.59.38:788][903]LogTemp: Warning: Your message
+[2020.03.23-21.59.38:805][904]LogTemp: Warning: Your message
+[2020.03.23-21.59.38:822][905]LogTemp: Warning: Your message
+[2020.03.23-21.59.38:839][906]LogTemp: Warning: Your message
+[2020.03.23-21.59.38:855][907]LogTemp: Warning: Your message
+[2020.03.23-21.59.38:872][908]LogTemp: Warning: Your message
+[2020.03.23-21.59.38:889][909]LogTemp: Warning: Your message
+[2020.03.23-21.59.38:905][910]LogTemp: Warning: Your message
+[2020.03.23-21.59.38:922][911]LogTemp: Warning: Your message
+[2020.03.23-21.59.38:938][912]LogTemp: Warning: Your message
+[2020.03.23-21.59.38:955][913]LogTemp: Warning: Your message
+[2020.03.23-21.59.38:972][914]LogTemp: Warning: Your message
+[2020.03.23-21.59.38:988][915]LogTemp: Warning: Your message
+[2020.03.23-21.59.39:005][916]LogTemp: Warning: Your message
+[2020.03.23-21.59.39:023][917]LogTemp: Warning: Your message
+[2020.03.23-21.59.39:039][918]LogTemp: Warning: Your message
+[2020.03.23-21.59.39:055][919]LogTemp: Warning: Your message
+[2020.03.23-21.59.39:071][920]LogTemp: Warning: Your message
+[2020.03.23-21.59.39:089][921]LogTemp: Warning: Your message
+[2020.03.23-21.59.39:105][922]LogTemp: Warning: Your message
+[2020.03.23-21.59.39:122][923]LogTemp: Warning: Your message
+[2020.03.23-21.59.39:139][924]LogTemp: Warning: Your message
+[2020.03.23-21.59.39:155][925]LogTemp: Warning: Your message
+[2020.03.23-21.59.39:172][926]LogTemp: Warning: Your message
+[2020.03.23-21.59.39:189][927]LogTemp: Warning: Your message
+[2020.03.23-21.59.39:206][928]LogTemp: Warning: Your message
+[2020.03.23-21.59.39:222][929]LogTemp: Warning: Your message
+[2020.03.23-21.59.39:238][930]LogTemp: Warning: Your message
+[2020.03.23-21.59.39:255][931]LogTemp: Warning: Your message
+[2020.03.23-21.59.39:272][932]LogTemp: Warning: Your message
+[2020.03.23-21.59.39:290][933]LogTemp: Warning: Your message
+[2020.03.23-21.59.39:304][934]LogTemp: Warning: Your message
+[2020.03.23-21.59.39:321][935]LogTemp: Warning: Your message
+[2020.03.23-21.59.39:339][936]LogTemp: Warning: Your message
+[2020.03.23-21.59.39:355][937]LogTemp: Warning: Your message
+[2020.03.23-21.59.39:371][938]LogTemp: Warning: Your message
+[2020.03.23-21.59.39:388][939]LogTemp: Warning: Your message
+[2020.03.23-21.59.39:405][940]LogTemp: Warning: Your message
+[2020.03.23-21.59.39:422][941]LogTemp: Warning: Your message
+[2020.03.23-21.59.39:438][942]LogTemp: Warning: Your message
+[2020.03.23-21.59.39:455][943]LogTemp: Warning: Your message
+[2020.03.23-21.59.39:472][944]LogTemp: Warning: Your message
+[2020.03.23-21.59.39:488][945]LogTemp: Warning: Your message
+[2020.03.23-21.59.39:505][946]LogTemp: Warning: Your message
+[2020.03.23-21.59.39:522][947]LogTemp: Warning: Your message
+[2020.03.23-21.59.39:538][948]LogTemp: Warning: Your message
+[2020.03.23-21.59.39:555][949]LogTemp: Warning: Your message
+[2020.03.23-21.59.39:572][950]LogTemp: Warning: Your message
+[2020.03.23-21.59.39:588][951]LogTemp: Warning: Your message
+[2020.03.23-21.59.39:605][952]LogTemp: Warning: Your message
+[2020.03.23-21.59.39:622][953]LogTemp: Warning: Your message
+[2020.03.23-21.59.39:638][954]LogTemp: Warning: Your message
+[2020.03.23-21.59.39:655][955]LogTemp: Warning: Your message
+[2020.03.23-21.59.39:672][956]LogTemp: Warning: Your message
+[2020.03.23-21.59.39:688][957]LogTemp: Warning: Your message
+[2020.03.23-21.59.39:705][958]LogTemp: Warning: Your message
+[2020.03.23-21.59.39:722][959]LogTemp: Warning: Your message
+[2020.03.23-21.59.39:738][960]LogTemp: Warning: Your message
+[2020.03.23-21.59.39:756][961]LogTemp: Warning: Your message
+[2020.03.23-21.59.39:772][962]LogTemp: Warning: Your message
+[2020.03.23-21.59.39:789][963]LogTemp: Warning: Your message
+[2020.03.23-21.59.39:805][964]LogTemp: Warning: Your message
+[2020.03.23-21.59.39:822][965]LogTemp: Warning: Your message
+[2020.03.23-21.59.39:839][966]LogTemp: Warning: Your message
+[2020.03.23-21.59.39:855][967]LogTemp: Warning: Your message
+[2020.03.23-21.59.39:872][968]LogTemp: Warning: Your message
+[2020.03.23-21.59.39:889][969]LogTemp: Warning: Your message
+[2020.03.23-21.59.39:905][970]LogTemp: Warning: Your message
+[2020.03.23-21.59.39:922][971]LogTemp: Warning: Your message
+[2020.03.23-21.59.39:939][972]LogTemp: Warning: Your message
+[2020.03.23-21.59.39:955][973]LogTemp: Warning: Your message
+[2020.03.23-21.59.39:972][974]LogTemp: Warning: Your message
+[2020.03.23-21.59.39:988][975]LogTemp: Warning: Your message
+[2020.03.23-21.59.40:005][976]LogTemp: Warning: Your message
+[2020.03.23-21.59.40:022][977]LogTemp: Warning: Your message
+[2020.03.23-21.59.40:038][978]LogTemp: Warning: Your message
+[2020.03.23-21.59.40:055][979]LogTemp: Warning: Your message
+[2020.03.23-21.59.40:071][980]LogTemp: Warning: Your message
+[2020.03.23-21.59.40:088][981]LogTemp: Warning: Your message
+[2020.03.23-21.59.40:105][982]LogTemp: Warning: Your message
+[2020.03.23-21.59.40:122][983]LogTemp: Warning: Your message
+[2020.03.23-21.59.40:138][984]LogTemp: Warning: Your message
+[2020.03.23-21.59.40:155][985]LogTemp: Warning: Your message
+[2020.03.23-21.59.40:172][986]LogTemp: Warning: Your message
+[2020.03.23-21.59.40:189][987]LogTemp: Warning: Your message
+[2020.03.23-21.59.40:205][988]LogTemp: Warning: Your message
+[2020.03.23-21.59.40:222][989]LogTemp: Warning: Your message
+[2020.03.23-21.59.40:239][990]LogTemp: Warning: Your message
+[2020.03.23-21.59.40:255][991]LogTemp: Warning: Your message
+[2020.03.23-21.59.40:272][992]LogTemp: Warning: Your message
+[2020.03.23-21.59.40:289][993]LogTemp: Warning: Your message
+[2020.03.23-21.59.40:305][994]LogTemp: Warning: Your message
+[2020.03.23-21.59.40:322][995]LogTemp: Warning: Your message
+[2020.03.23-21.59.40:339][996]LogTemp: Warning: Your message
+[2020.03.23-21.59.40:355][997]LogTemp: Warning: Your message
+[2020.03.23-21.59.40:372][998]LogTemp: Warning: Your message
+[2020.03.23-21.59.40:389][999]LogTemp: Warning: Your message
+[2020.03.23-21.59.40:405][  0]LogTemp: Warning: Your message
+[2020.03.23-21.59.40:422][  1]LogTemp: Warning: Your message
+[2020.03.23-21.59.40:438][  2]LogTemp: Warning: Your message
+[2020.03.23-21.59.40:455][  3]LogTemp: Warning: Your message
+[2020.03.23-21.59.40:472][  4]LogTemp: Warning: Your message
+[2020.03.23-21.59.40:489][  5]LogTemp: Warning: Your message
+[2020.03.23-21.59.40:505][  6]LogTemp: Warning: Your message
+[2020.03.23-21.59.40:523][  7]LogTemp: Warning: Your message
+[2020.03.23-21.59.40:538][  8]LogTemp: Warning: Your message
+[2020.03.23-21.59.40:555][  9]LogTemp: Warning: Your message
+[2020.03.23-21.59.40:571][ 10]LogTemp: Warning: Your message
+[2020.03.23-21.59.40:588][ 11]LogTemp: Warning: Your message
+[2020.03.23-21.59.40:605][ 12]LogTemp: Warning: Your message
+[2020.03.23-21.59.40:621][ 13]LogTemp: Warning: Your message
+[2020.03.23-21.59.40:638][ 14]LogTemp: Warning: Your message
+[2020.03.23-21.59.40:655][ 15]LogTemp: Warning: Your message
+[2020.03.23-21.59.40:672][ 16]LogTemp: Warning: Your message
+[2020.03.23-21.59.40:688][ 17]LogTemp: Warning: Your message
+[2020.03.23-21.59.40:705][ 18]LogTemp: Warning: Your message
+[2020.03.23-21.59.40:722][ 19]LogTemp: Warning: Your message
+[2020.03.23-21.59.40:738][ 20]LogTemp: Warning: Your message
+[2020.03.23-21.59.40:755][ 21]LogTemp: Warning: Your message
+[2020.03.23-21.59.40:771][ 22]LogTemp: Warning: Your message
+[2020.03.23-21.59.40:788][ 23]LogTemp: Warning: Your message
+[2020.03.23-21.59.40:805][ 24]LogTemp: Warning: Your message
+[2020.03.23-21.59.40:822][ 25]LogTemp: Warning: Your message
+[2020.03.23-21.59.40:822][ 25]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.23-21.59.40:822][ 25]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.23-21.59.40:822][ 25]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.23-21.59.40:822][ 25]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.23-21.59.40:822][ 25]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.03.23-21.59.40:822][ 25]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.23-21.59.40:822][ 25]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.23-21.59.40:823][ 25]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.23-21.59.40:833][ 25]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.23-21.59.40:833][ 25]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.23-21.59.40:836][ 25]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.23-21.59.40:865][ 25]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.23-21.59.40:868][ 25]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.23-21.59.40:870][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2020.03.23-21.59.40:936][ 29]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.03.23-21.59.49:307][528]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.23-21.59.49:314][528]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.23-21.59.49:314][528]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.23-21.59.49:314][528]PIE: New page: PIE session: FirstPersonExampleMap (23 Mar 2020, 23:59:49)
+[2020.03.23-21.59.49:314][528]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.03.23-21.59.49:323][528]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009059s)
+[2020.03.23-21.59.49:325][528]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.03.23-21.59.49:325][528]LogPlayLevel: PIE: World Init took: (0.001931s)
+[2020.03.23-21.59.49:325][528]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.011156s)
+[2020.03.23-21.59.49:360][528]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2020.03.23-21.59.49:360][528]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.23-21.59.49:360][528]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.23-21.59.49:360][528]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.23-21.59.49:360][528]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.23-21.59.49:361][528]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.23-21.59.49:361][528]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.23-21.59.49:361][528]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.23-21.59.49:361][528]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.23-21.59.49:361][528]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.23-21.59.49:361][528]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.23-21.59.49:379][528]LogAudioMixer: Warning: Did not find the channel type flags for audio device 'Speakers (Scarlett 2i4 USB)'. Reverting to a default channel ordering.
+[2020.03.23-21.59.49:379][528]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.23-21.59.49:379][528]LogAudioMixer: Display: Name: Speakers (Scarlett 2i4 USB)
+[2020.03.23-21.59.49:379][528]LogAudioMixer: Display: Is Default: Yes
+[2020.03.23-21.59.49:379][528]LogAudioMixer: Display: Sample Rate: 44100
+[2020.03.23-21.59.49:379][528]LogAudioMixer: Display: Channel Count Used: 4
+[2020.03.23-21.59.49:379][528]LogAudioMixer: Display: Device Channel Count: 4
+[2020.03.23-21.59.49:379][528]LogAudioMixer: Display: Channel Order:
+[2020.03.23-21.59.49:379][528]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.23-21.59.49:379][528]LogAudioMixer: Display: 1: FrontRight
+[2020.03.23-21.59.49:379][528]LogAudioMixer: Display: 2: BackLeft
+[2020.03.23-21.59.49:379][528]LogAudioMixer: Display: 3: BackRight
+[2020.03.23-21.59.49:384][528]LogAudioMixer: Display: Using Audio Device Speakers (Scarlett 2i4 USB)
+[2020.03.23-21.59.49:386][528]LogInit: FAudioDevice initialized.
+[2020.03.23-21.59.49:396][528]LogLoad: Game class is 'GameGameMode'
+[2020.03.23-21.59.49:398][528]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.03.23-22.59.49
+[2020.03.23-21.59.49:398][528]LogWorld: Bringing up level for play took: 0.001158
+[2020.03.23-21.59.49:398][528]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2020.03.23-21.59.49:399][528]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap 0,35
+[2020.03.23-21.59.49:399][528]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.23-21.59.49:400][528]LogTemp: Warning: Your message
+[2020.03.23-21.59.49:430][529]LogTemp: Warning: Your message
+[2020.03.23-21.59.49:447][530]LogTemp: Warning: Your message
+[2020.03.23-21.59.49:463][531]LogTemp: Warning: Your message
+[2020.03.23-21.59.49:480][532]LogTemp: Warning: Your message
+[2020.03.23-21.59.49:497][533]LogTemp: Warning: Your message
+[2020.03.23-21.59.49:513][534]LogTemp: Warning: Your message
+[2020.03.23-21.59.49:530][535]LogTemp: Warning: Your message
+[2020.03.23-21.59.49:546][536]LogTemp: Warning: Your message
+[2020.03.23-21.59.49:562][537]LogTemp: Warning: Your message
+[2020.03.23-21.59.49:579][538]LogTemp: Warning: Your message
+[2020.03.23-21.59.49:596][539]LogTemp: Warning: Your message
+[2020.03.23-21.59.49:612][540]LogTemp: Warning: Your message
+[2020.03.23-21.59.49:629][541]LogTemp: Warning: Your message
+[2020.03.23-21.59.49:646][542]LogTemp: Warning: Your message
+[2020.03.23-21.59.49:663][543]LogTemp: Warning: Your message
+[2020.03.23-21.59.49:679][544]LogTemp: Warning: Your message
+[2020.03.23-21.59.49:696][545]LogTemp: Warning: Your message
+[2020.03.23-21.59.49:713][546]LogTemp: Warning: Your message
+[2020.03.23-21.59.49:730][547]LogTemp: Warning: Your message
+[2020.03.23-21.59.49:746][548]LogTemp: Warning: Your message
+[2020.03.23-21.59.49:764][549]LogTemp: Warning: Your message
+[2020.03.23-21.59.49:779][550]LogTemp: Warning: Your message
+[2020.03.23-21.59.49:796][551]LogTemp: Warning: Your message
+[2020.03.23-21.59.49:813][552]LogTemp: Warning: Your message
+[2020.03.23-21.59.49:830][553]LogTemp: Warning: Your message
+[2020.03.23-21.59.49:847][554]LogTemp: Warning: Your message
+[2020.03.23-21.59.49:863][555]LogTemp: Warning: Your message
+[2020.03.23-21.59.49:880][556]LogTemp: Warning: Your message
+[2020.03.23-21.59.49:898][557]LogTemp: Warning: Your message
+[2020.03.23-21.59.49:913][558]LogTemp: Warning: Your message
+[2020.03.23-21.59.49:929][559]LogTemp: Warning: Your message
+[2020.03.23-21.59.49:946][560]LogTemp: Warning: Your message
+[2020.03.23-21.59.49:963][561]LogTemp: Warning: Your message
+[2020.03.23-21.59.49:979][562]LogTemp: Warning: Your message
+[2020.03.23-21.59.49:996][563]LogTemp: Warning: Your message
+[2020.03.23-21.59.50:013][564]LogTemp: Warning: Your message
+[2020.03.23-21.59.50:029][565]LogTemp: Warning: Your message
+[2020.03.23-21.59.50:048][566]LogTemp: Warning: Your message
+[2020.03.23-21.59.50:063][567]LogTemp: Warning: Your message
+[2020.03.23-21.59.50:080][568]LogTemp: Warning: Your message
+[2020.03.23-21.59.50:096][569]LogTemp: Warning: Your message
+[2020.03.23-21.59.50:113][570]LogTemp: Warning: Your message
+[2020.03.23-21.59.50:130][571]LogTemp: Warning: Your message
+[2020.03.23-21.59.50:146][572]LogTemp: Warning: Your message
+[2020.03.23-21.59.50:163][573]LogTemp: Warning: Your message
+[2020.03.23-21.59.50:180][574]LogTemp: Warning: Your message
+[2020.03.23-21.59.50:196][575]LogTemp: Warning: Your message
+[2020.03.23-21.59.50:213][576]LogTemp: Warning: Your message
+[2020.03.23-21.59.50:230][577]LogTemp: Warning: Your message
+[2020.03.23-21.59.50:247][578]LogTemp: Warning: Your message
+[2020.03.23-21.59.50:263][579]LogTemp: Warning: Your message
+[2020.03.23-21.59.50:280][580]LogTemp: Warning: Your message
+[2020.03.23-21.59.50:297][581]LogTemp: Warning: Your message
+[2020.03.23-21.59.50:313][582]LogTemp: Warning: Your message
+[2020.03.23-21.59.50:330][583]LogTemp: Warning: Your message
+[2020.03.23-21.59.50:347][584]LogTemp: Warning: Your message
+[2020.03.23-21.59.50:363][585]LogTemp: Warning: Your message
+[2020.03.23-21.59.50:379][586]LogTemp: Warning: Your message
+[2020.03.23-21.59.50:397][587]LogTemp: Warning: Your message
+[2020.03.23-21.59.50:413][588]LogTemp: Warning: Your message
+[2020.03.23-21.59.50:430][589]LogTemp: Warning: Your message
+[2020.03.23-21.59.50:446][590]LogTemp: Warning: Your message
+[2020.03.23-21.59.50:463][591]LogTemp: Warning: Your message
+[2020.03.23-21.59.50:479][592]LogTemp: Warning: Your message
+[2020.03.23-21.59.50:496][593]LogTemp: Warning: Your message
+[2020.03.23-21.59.50:513][594]LogTemp: Warning: Your message
+[2020.03.23-21.59.50:529][595]LogTemp: Warning: Your message
+[2020.03.23-21.59.50:546][596]LogTemp: Warning: Your message
+[2020.03.23-21.59.50:563][597]LogTemp: Warning: Your message
+[2020.03.23-21.59.50:579][598]LogTemp: Warning: Your message
+[2020.03.23-21.59.50:596][599]LogTemp: Warning: Your message
+[2020.03.23-21.59.50:613][600]LogTemp: Warning: Your message
+[2020.03.23-21.59.50:630][601]LogTemp: Warning: Your message
+[2020.03.23-21.59.50:646][602]LogTemp: Warning: Your message
+[2020.03.23-21.59.50:663][603]LogTemp: Warning: Your message
+[2020.03.23-21.59.50:679][604]LogTemp: Warning: Your message
+[2020.03.23-21.59.50:696][605]LogTemp: Warning: Your message
+[2020.03.23-21.59.50:712][606]LogTemp: Warning: Your message
+[2020.03.23-21.59.50:730][607]LogTemp: Warning: Your message
+[2020.03.23-21.59.50:747][608]LogTemp: Warning: Your message
+[2020.03.23-21.59.50:763][609]LogTemp: Warning: Your message
+[2020.03.23-21.59.50:780][610]LogTemp: Warning: Your message
+[2020.03.23-21.59.50:797][611]LogTemp: Warning: Your message
+[2020.03.23-21.59.50:813][612]LogTemp: Warning: Your message
+[2020.03.23-21.59.50:830][613]LogTemp: Warning: Your message
+[2020.03.23-21.59.50:847][614]LogTemp: Warning: Your message
+[2020.03.23-21.59.50:863][615]LogTemp: Warning: Your message
+[2020.03.23-21.59.50:881][616]LogTemp: Warning: Your message
+[2020.03.23-21.59.50:896][617]LogTemp: Warning: Your message
+[2020.03.23-21.59.50:913][618]LogTemp: Warning: Your message
+[2020.03.23-21.59.50:929][619]LogTemp: Warning: Your message
+[2020.03.23-21.59.50:947][620]LogTemp: Warning: Your message
+[2020.03.23-21.59.50:963][621]LogTemp: Warning: Your message
+[2020.03.23-21.59.50:980][622]LogTemp: Warning: Your message
+[2020.03.23-21.59.50:996][623]LogTemp: Warning: Your message
+[2020.03.23-21.59.51:012][624]LogTemp: Warning: Your message
+[2020.03.23-21.59.51:029][625]LogTemp: Warning: Your message
+[2020.03.23-21.59.51:046][626]LogTemp: Warning: Your message
+[2020.03.23-21.59.51:064][627]LogTemp: Warning: Your message
+[2020.03.23-21.59.51:079][628]LogTemp: Warning: Your message
+[2020.03.23-21.59.51:097][629]LogTemp: Warning: Your message
+[2020.03.23-21.59.51:113][630]LogTemp: Warning: Your message
+[2020.03.23-21.59.51:129][631]LogTemp: Warning: Your message
+[2020.03.23-21.59.51:146][632]LogTemp: Warning: Your message
+[2020.03.23-21.59.51:163][633]LogTemp: Warning: Your message
+[2020.03.23-21.59.51:181][634]LogTemp: Warning: Your message
+[2020.03.23-21.59.51:196][635]LogTemp: Warning: Your message
+[2020.03.23-21.59.51:213][636]LogTemp: Warning: Your message
+[2020.03.23-21.59.51:230][637]LogTemp: Warning: Your message
+[2020.03.23-21.59.51:246][638]LogTemp: Warning: Your message
+[2020.03.23-21.59.51:263][639]LogTemp: Warning: Your message
+[2020.03.23-21.59.51:279][640]LogTemp: Warning: Your message
+[2020.03.23-21.59.51:296][641]LogTemp: Warning: Your message
+[2020.03.23-21.59.51:314][642]LogTemp: Warning: Your message
+[2020.03.23-21.59.51:330][643]LogTemp: Warning: Your message
+[2020.03.23-21.59.51:347][644]LogTemp: Warning: Your message
+[2020.03.23-21.59.51:363][645]LogTemp: Warning: Your message
+[2020.03.23-21.59.51:380][646]LogTemp: Warning: Your message
+[2020.03.23-21.59.51:397][647]LogTemp: Warning: Your message
+[2020.03.23-21.59.51:413][648]LogTemp: Warning: Your message
+[2020.03.23-21.59.51:430][649]LogTemp: Warning: Your message
+[2020.03.23-21.59.51:446][650]LogTemp: Warning: Your message
+[2020.03.23-21.59.51:463][651]LogTemp: Warning: Your message
+[2020.03.23-21.59.51:479][652]LogTemp: Warning: Your message
+[2020.03.23-21.59.51:497][653]LogTemp: Warning: Your message
+[2020.03.23-21.59.51:512][654]LogTemp: Warning: Your message
+[2020.03.23-21.59.51:529][655]LogTemp: Warning: Your message
+[2020.03.23-21.59.51:546][656]LogTemp: Warning: Your message
+[2020.03.23-21.59.51:563][657]LogTemp: Warning: Your message
+[2020.03.23-21.59.51:580][658]LogTemp: Warning: Your message
+[2020.03.23-21.59.51:596][659]LogTemp: Warning: Your message
+[2020.03.23-21.59.51:613][660]LogTemp: Warning: Your message
+[2020.03.23-21.59.51:629][661]LogTemp: Warning: Your message
+[2020.03.23-21.59.51:646][662]LogTemp: Warning: Your message
+[2020.03.23-21.59.51:663][663]LogTemp: Warning: Your message
+[2020.03.23-21.59.51:680][664]LogTemp: Warning: Your message
+[2020.03.23-21.59.51:696][665]LogTemp: Warning: Your message
+[2020.03.23-21.59.51:713][666]LogTemp: Warning: Your message
+[2020.03.23-21.59.51:730][667]LogTemp: Warning: Your message
+[2020.03.23-21.59.51:747][668]LogTemp: Warning: Your message
+[2020.03.23-21.59.51:763][669]LogTemp: Warning: Your message
+[2020.03.23-21.59.51:780][670]LogTemp: Warning: Your message
+[2020.03.23-21.59.51:798][671]LogTemp: Warning: Your message
+[2020.03.23-21.59.51:813][672]LogTemp: Warning: Your message
+[2020.03.23-21.59.51:830][673]LogTemp: Warning: Your message
+[2020.03.23-21.59.51:846][674]LogTemp: Warning: Your message
+[2020.03.23-21.59.51:863][675]LogTemp: Warning: Your message
+[2020.03.23-21.59.51:879][676]LogTemp: Warning: Your message
+[2020.03.23-21.59.51:897][677]LogTemp: Warning: Your message
+[2020.03.23-21.59.51:913][678]LogTemp: Warning: Your message
+[2020.03.23-21.59.51:929][679]LogTemp: Warning: Your message
+[2020.03.23-21.59.51:946][680]LogTemp: Warning: Your message
+[2020.03.23-21.59.51:963][681]LogTemp: Warning: Your message
+[2020.03.23-21.59.51:980][682]LogTemp: Warning: Your message
+[2020.03.23-21.59.51:996][683]LogTemp: Warning: Your message
+[2020.03.23-21.59.52:013][684]LogTemp: Warning: Your message
+[2020.03.23-21.59.52:029][685]LogTemp: Warning: Your message
+[2020.03.23-21.59.52:046][686]LogTemp: Warning: Your message
+[2020.03.23-21.59.52:063][687]LogTemp: Warning: Your message
+[2020.03.23-21.59.52:080][688]LogTemp: Warning: Your message
+[2020.03.23-21.59.52:097][689]LogTemp: Warning: Your message
+[2020.03.23-21.59.52:113][690]LogTemp: Warning: Your message
+[2020.03.23-21.59.52:129][691]LogTemp: Warning: Your message
+[2020.03.23-21.59.52:146][692]LogTemp: Warning: Your message
+[2020.03.23-21.59.52:163][693]LogTemp: Warning: Your message
+[2020.03.23-21.59.52:180][694]LogTemp: Warning: Your message
+[2020.03.23-21.59.52:196][695]LogTemp: Warning: Your message
+[2020.03.23-21.59.52:213][696]LogTemp: Warning: Your message
+[2020.03.23-21.59.52:230][697]LogTemp: Warning: Your message
+[2020.03.23-21.59.52:246][698]LogTemp: Warning: Your message
+[2020.03.23-21.59.52:263][699]LogTemp: Warning: Your message
+[2020.03.23-21.59.52:280][700]LogTemp: Warning: Your message
+[2020.03.23-21.59.52:296][701]LogTemp: Warning: Your message
+[2020.03.23-21.59.52:314][702]LogTemp: Warning: Your message
+[2020.03.23-21.59.52:329][703]LogTemp: Warning: Your message
+[2020.03.23-21.59.52:346][704]LogTemp: Warning: Your message
+[2020.03.23-21.59.52:362][705]LogTemp: Warning: Your message
+[2020.03.23-21.59.52:379][706]LogTemp: Warning: Your message
+[2020.03.23-21.59.52:396][707]LogTemp: Warning: Your message
+[2020.03.23-21.59.52:413][708]LogTemp: Warning: Your message
+[2020.03.23-21.59.52:429][709]LogTemp: Warning: Your message
+[2020.03.23-21.59.52:446][710]LogTemp: Warning: Your message
+[2020.03.23-21.59.52:462][711]LogTemp: Warning: Your message
+[2020.03.23-21.59.52:479][712]LogTemp: Warning: Your message
+[2020.03.23-21.59.52:496][713]LogTemp: Warning: Your message
+[2020.03.23-21.59.52:513][714]LogTemp: Warning: Your message
+[2020.03.23-21.59.52:529][715]LogTemp: Warning: Your message
+[2020.03.23-21.59.52:546][716]LogTemp: Warning: Your message
+[2020.03.23-21.59.52:563][717]LogTemp: Warning: Your message
+[2020.03.23-21.59.52:580][718]LogTemp: Warning: Your message
+[2020.03.23-21.59.52:596][719]LogTemp: Warning: Your message
+[2020.03.23-21.59.52:613][720]LogTemp: Warning: Your message
+[2020.03.23-21.59.52:614][720]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.23-21.59.52:614][720]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.23-21.59.52:614][720]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.23-21.59.52:614][720]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.23-21.59.52:614][720]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.03.23-21.59.52:614][720]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.23-21.59.52:614][720]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.23-21.59.52:615][720]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.23-21.59.52:620][720]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.23-21.59.52:620][720]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.23-21.59.52:623][720]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.23-21.59.52:653][720]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.23-21.59.52:656][720]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.23-21.59.52:658][720]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2020.03.23-21.59.52:720][724]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.03.23-22.00.04:938][ 55]Candidate modules for hot reload:
+[2020.03.23-22.00.04:938][ 55]  Game
+[2020.03.23-22.00.04:938][ 55]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Game,6107 Win64 Development -TargetType=Editor -Project="C:/Users/Ernie/Desktop/UnrealProject/Game/Game.uproject" "C:/Users/Ernie/Desktop/UnrealProject/Game/Game.uproject"  -IgnoreJunk]
+[2020.03.23-22.00.04:941][ 55]Warning: Starting HotReload took  0.0s.
+[2020.03.23-22.00.07:050][166]CompilerResultsLog: New page: Compilation - 24 Mar 2020, 00:00:07
+[2020.03.23-22.00.07:050][166]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Ernie\Desktop\UnrealProject).
+[2020.03.23-22.00.07:050][166]CompilerResultsLog: Building GameEditor...
+[2020.03.23-22.00.07:050][166]CompilerResultsLog: Using Visual Studio 2017 14.16.27034 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.03.23-22.00.07:050][166]CompilerResultsLog: Building 4 actions with 16 processes...
+[2020.03.23-22.00.07:050][166]CompilerResultsLog:   [1/4] TestActorComponent.cpp
+[2020.03.23-22.00.07:050][166]CompilerResultsLog:   [2/4] UE4Editor-Game-6107.lib
+[2020.03.23-22.00.07:050][166]CompilerResultsLog:      Creating library C:\Users\Ernie\Desktop\UnrealProject\Game\Intermediate\Build\Win64\UE4Editor\Development\Game\UE4Editor-Game-6107.lib and object C:\Users\Ernie\Desktop\UnrealProject\Game\Intermediate\Build\Win64\UE4Editor\Development\Game\UE4Editor-Game-6107.exp
+[2020.03.23-22.00.07:050][166]CompilerResultsLog:   [3/4] UE4Editor-Game-6107.dll
+[2020.03.23-22.00.07:050][166]CompilerResultsLog:      Creating library C:\Users\Ernie\Desktop\UnrealProject\Game\Intermediate\Build\Win64\UE4Editor\Development\Game\UE4Editor-Game-6107.suppressed.lib and object C:\Users\Ernie\Desktop\UnrealProject\Game\Intermediate\Build\Win64\UE4Editor\Development\Game\UE4Editor-Game-6107.suppressed.exp
+[2020.03.23-22.00.07:050][166]CompilerResultsLog:   [4/4] GameEditor.target
+[2020.03.23-22.00.07:050][166]CompilerResultsLog: Total time in Parallel executor: 1,33 seconds
+[2020.03.23-22.00.07:050][166]CompilerResultsLog: Total execution time: 2,04 seconds
+[2020.03.23-22.00.07:050][166]LogMainFrame: MainFrame: Module compiling took 2.124 seconds
+[2020.03.23-22.00.07:082][166]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.03.23-22.00.07:104][166]LogContentBrowser: Native class hierarchy updated for 'Game' in 0.0003 seconds. Added 6 classes and 2 folders.
+[2020.03.23-22.00.07:105][166]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2020.03.23-22.00.07:165][166]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2020.03.23-22.00.07:175][166]LogContentBrowser: Native class hierarchy populated in 0.0064 seconds. Added 3023 classes and 722 folders.
+[2020.03.23-22.00.07:175][166]Display: HotReload took  2.3s.
+[2020.03.23-22.00.07:642][194]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.23-22.00.07:651][194]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.23-22.00.07:651][194]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.23-22.00.07:651][194]PIE: New page: PIE session: FirstPersonExampleMap (24 Mar 2020, 00:00:07)
+[2020.03.23-22.00.07:651][194]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.03.23-22.00.07:661][194]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009379s)
+[2020.03.23-22.00.07:662][194]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.03.23-22.00.07:662][194]LogPlayLevel: PIE: World Init took: (0.001475s)
+[2020.03.23-22.00.07:662][194]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.011108s)
+[2020.03.23-22.00.07:697][194]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2020.03.23-22.00.07:697][194]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.23-22.00.07:697][194]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.23-22.00.07:697][194]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.23-22.00.07:697][194]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.23-22.00.07:697][194]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.23-22.00.07:697][194]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.23-22.00.07:697][194]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.23-22.00.07:697][194]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.23-22.00.07:698][194]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.23-22.00.07:698][194]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.23-22.00.07:715][194]LogAudioMixer: Warning: Did not find the channel type flags for audio device 'Speakers (Scarlett 2i4 USB)'. Reverting to a default channel ordering.
+[2020.03.23-22.00.07:715][194]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.23-22.00.07:715][194]LogAudioMixer: Display: Name: Speakers (Scarlett 2i4 USB)
+[2020.03.23-22.00.07:715][194]LogAudioMixer: Display: Is Default: Yes
+[2020.03.23-22.00.07:715][194]LogAudioMixer: Display: Sample Rate: 44100
+[2020.03.23-22.00.07:715][194]LogAudioMixer: Display: Channel Count Used: 4
+[2020.03.23-22.00.07:715][194]LogAudioMixer: Display: Device Channel Count: 4
+[2020.03.23-22.00.07:715][194]LogAudioMixer: Display: Channel Order:
+[2020.03.23-22.00.07:715][194]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.23-22.00.07:715][194]LogAudioMixer: Display: 1: FrontRight
+[2020.03.23-22.00.07:715][194]LogAudioMixer: Display: 2: BackLeft
+[2020.03.23-22.00.07:715][194]LogAudioMixer: Display: 3: BackRight
+[2020.03.23-22.00.07:720][194]LogAudioMixer: Display: Using Audio Device Speakers (Scarlett 2i4 USB)
+[2020.03.23-22.00.07:721][194]LogInit: FAudioDevice initialized.
+[2020.03.23-22.00.07:729][194]LogLoad: Game class is 'GameGameMode'
+[2020.03.23-22.00.07:731][194]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.03.23-23.00.07
+[2020.03.23-22.00.07:731][194]LogWorld: Bringing up level for play took: 0.001156
+[2020.03.23-22.00.07:731][194]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2020.03.23-22.00.07:733][194]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap 0,684
+[2020.03.23-22.00.07:733][194]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.23-22.00.07:733][194]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.07:760][195]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.07:777][196]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.07:793][197]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.07:810][198]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.07:827][199]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.07:844][200]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.07:860][201]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.07:877][202]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.07:894][203]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.07:912][204]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.07:927][205]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.07:944][206]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.07:961][207]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.07:977][208]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.07:994][209]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.08:011][210]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.08:027][211]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.08:044][212]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.08:060][213]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.08:077][214]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.08:093][215]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.08:110][216]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.08:127][217]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.08:143][218]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.08:160][219]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.08:177][220]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.08:193][221]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.08:211][222]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.08:227][223]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.08:244][224]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.08:261][225]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.08:277][226]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.08:294][227]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.08:310][228]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.08:327][229]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.08:344][230]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.08:361][231]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.08:377][232]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.08:394][233]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.08:411][234]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.08:427][235]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.08:444][236]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.08:461][237]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.08:477][238]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.08:493][239]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.08:510][240]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.08:527][241]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.08:543][242]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.08:560][243]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.08:577][244]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.08:594][245]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.08:611][246]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.08:628][247]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.08:645][248]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.08:660][249]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.08:678][250]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.08:694][251]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.08:712][252]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.08:727][253]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.08:744][254]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.08:761][255]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.08:777][256]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.08:794][257]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.08:811][258]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.08:827][259]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.08:844][260]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.08:861][261]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.08:877][262]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.08:894][263]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.08:910][264]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.08:928][265]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.08:945][266]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.08:961][267]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.08:977][268]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.08:994][269]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.09:011][270]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.09:027][271]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.09:044][272]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.09:061][273]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.09:077][274]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.09:094][275]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.09:111][276]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.09:127][277]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.09:145][278]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.09:160][279]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.09:177][280]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.09:194][281]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.09:210][282]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.09:227][283]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.09:244][284]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.09:261][285]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.09:277][286]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.09:294][287]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.09:311][288]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.09:328][289]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.09:344][290]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.09:360][291]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.09:377][292]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.09:393][293]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.09:411][294]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.09:427][295]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.09:443][296]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.09:460][297]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.09:477][298]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.09:494][299]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.09:510][300]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.09:527][301]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.09:544][302]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.09:560][303]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.09:577][304]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.09:594][305]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.09:611][306]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.09:627][307]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.09:644][308]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.09:661][309]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.09:677][310]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.09:694][311]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.09:710][312]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.09:726][313]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.09:743][314]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.09:760][315]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.09:777][316]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.09:793][317]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.09:810][318]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.09:827][319]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.09:845][320]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.09:861][321]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.09:879][322]LogTemp: Warning: Your dringding
+[2020.03.23-22.00.09:879][322]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.23-22.00.09:881][322]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.23-22.00.09:901][322]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.23-22.00.09:901][322]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.23-22.00.09:901][322]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.23-22.00.09:901][322]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.03.23-22.00.09:901][322]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.23-22.00.09:901][322]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.23-22.00.09:902][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.23-22.00.09:911][322]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.23-22.00.09:911][322]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.23-22.00.09:914][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.23-22.00.09:947][322]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.23-22.00.09:949][322]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.23-22.00.09:951][322]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2020.03.23-22.00.09:982][324]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.03.23-22.00.17:865][797]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2020.03.23-22.00.18:545][830]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.03.23-22.00.33:360][717]Cmd: ACTOR SELECT MATCHINGSTATICMESH ALLCLASSES
+[2020.03.23-22.00.34:775][801]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall4)
+[2020.03.23-22.00.35:809][862]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.03.23-22.00.36:304][891]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall)
+[2020.03.23-22.00.45:001][410]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter2)
+[2020.03.23-22.01.06:293][ 31]LogAssetEditorSubsystem: Opening Asset editor for Class /Script/Game.TestActorComponent
+[2020.03.23-22.01.28:321][264]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2020.03.23-22.01.28:430][264]LogSavePackage: Moving '../../../../../../Users/Ernie/Desktop/UnrealProject/Game/Saved/FirstPersonExampleMap1C342C424ADDB41A563F66A2487BB331.tmp' to '../../../../../../Users/Ernie/Desktop/UnrealProject/Game/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2020.03.23-22.01.28:882][264]LogSavePackage: Moving '../../../../../../Users/Ernie/Desktop/UnrealProject/Game/Saved/FirstPersonExampleMap_BuiltData15655D814CD4E089A5E164A66A0C9AB5.tmp' to '../../../../../../Users/Ernie/Desktop/UnrealProject/Game/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.03.23-22.01.28:894][264]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.23-22.01.28:894][264]LogContentValidation: Display: Validating World /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.03.23-22.01.28:895][264]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.03.23-22.01.29:955][326]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2020.03.23-22.01.29:985][326]LogSlate: Window 'Game - Unreal Editor' being destroyed
+[2020.03.23-22.01.29:986][326]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.03.23-22.01.30:101][327]Cmd: QUIT_EDITOR
+[2020.03.23-22.01.30:101][327]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.03.23-22.01.30:109][327]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.03.23-22.01.30:109][327]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.23-22.01.30:778][327]LogExit: Preparing to exit.
+[2020.03.23-22.01.31:536][327]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.03.23-22.01.31:537][327]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.03.23-22.01.31:537][327]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.03.23-22.01.31:546][327]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.03.23-22.01.31:558][327]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.03.23-22.01.31:558][327]LogExit: Editor shut down
+[2020.03.23-22.01.31:558][327]LogExit: Transaction tracking system shut down
+[2020.03.23-22.01.31:677][327]LogExit: Object subsystem successfully closed.
+[2020.03.23-22.01.31:732][327]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.03.23-22.01.31:756][327]LogModuleManager: Shutting down and abandoning module Game (715)
+[2020.03.23-22.01.31:756][327]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (710)
+[2020.03.23-22.01.31:756][327]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (704)
+[2020.03.23-22.01.31:756][327]LogModuleManager: Shutting down and abandoning module Voice (702)
+[2020.03.23-22.01.31:756][327]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (700)
+[2020.03.23-22.01.31:756][327]LogModuleManager: Shutting down and abandoning module SceneOutliner (698)
+[2020.03.23-22.01.31:756][327]LogModuleManager: Shutting down and abandoning module AddContentDialog (696)
+[2020.03.23-22.01.31:756][327]LogModuleManager: Shutting down and abandoning module WidgetCarousel (695)
+[2020.03.23-22.01.31:756][327]LogModuleManager: Shutting down and abandoning module EditorWidgets (692)
+[2020.03.23-22.01.31:756][327]LogModuleManager: Shutting down and abandoning module CollectionManager (690)
+[2020.03.23-22.01.31:757][327]LogModuleManager: Shutting down and abandoning module StatsViewer (688)
+[2020.03.23-22.01.31:757][327]LogModuleManager: Shutting down and abandoning module MeshBuilder (686)
+[2020.03.23-22.01.31:757][327]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (684)
+[2020.03.23-22.01.31:757][327]LogModuleManager: Shutting down and abandoning module FoliageEdit (682)
+[2020.03.23-22.01.31:757][327]LogModuleManager: Shutting down and abandoning module LandscapeEditor (680)
+[2020.03.23-22.01.31:757][327]LogModuleManager: Shutting down and abandoning module MeshPaintMode (678)
+[2020.03.23-22.01.31:757][327]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (676)
+[2020.03.23-22.01.31:757][327]LogModuleManager: Shutting down and abandoning module ActorPickerMode (674)
+[2020.03.23-22.01.31:757][327]LogModuleManager: Shutting down and abandoning module GeometryMode (672)
+[2020.03.23-22.01.31:757][327]LogModuleManager: Shutting down and abandoning module TextureAlignMode (670)
+[2020.03.23-22.01.31:757][327]LogModuleManager: Shutting down and abandoning module BspMode (668)
+[2020.03.23-22.01.31:757][327]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (666)
+[2020.03.23-22.01.31:757][327]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (664)
+[2020.03.23-22.01.31:757][327]LogModuleManager: Shutting down and abandoning module AutomationWorker (662)
+[2020.03.23-22.01.31:757][327]LogModuleManager: Shutting down and abandoning module SteamVREditor (660)
+[2020.03.23-22.01.31:757][327]LogModuleManager: Shutting down and abandoning module OculusMR (658)
+[2020.03.23-22.01.31:757][327]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (656)
+[2020.03.23-22.01.31:757][327]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (654)
+[2020.03.23-22.01.31:757][327]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (652)
+[2020.03.23-22.01.31:757][327]LogModuleManager: Shutting down and abandoning module PlacementMode (651)
+[2020.03.23-22.01.31:757][327]LogModuleManager: Shutting down and abandoning module MaterialEditor (650)
+[2020.03.23-22.01.31:757][327]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (646)
+[2020.03.23-22.01.31:757][327]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (644)
+[2020.03.23-22.01.31:757][327]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (642)
+[2020.03.23-22.01.31:757][327]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (640)
+[2020.03.23-22.01.31:757][327]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (638)
+[2020.03.23-22.01.31:757][327]LogModuleManager: Shutting down and abandoning module WebMMedia (636)
+[2020.03.23-22.01.31:757][327]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (634)
+[2020.03.23-22.01.31:757][327]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (632)
+[2020.03.23-22.01.31:757][327]LogModuleManager: Shutting down and abandoning module SequenceRecorder (631)
+[2020.03.23-22.01.31:757][327]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (628)
+[2020.03.23-22.01.31:757][327]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (626)
+[2020.03.23-22.01.31:757][327]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (624)
+[2020.03.23-22.01.31:757][327]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (622)
+[2020.03.23-22.01.31:757][327]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (620)
+[2020.03.23-22.01.31:757][327]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (618)
+[2020.03.23-22.01.31:757][327]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (616)
+[2020.03.23-22.01.31:757][327]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (614)
+[2020.03.23-22.01.31:757][327]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (612)
+[2020.03.23-22.01.31:757][327]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (610)
+[2020.03.23-22.01.31:757][327]LogModuleManager: Shutting down and abandoning module CharacterAI (608)
+[2020.03.23-22.01.31:757][327]LogModuleManager: Shutting down and abandoning module SmartSnapping (606)
+[2020.03.23-22.01.31:757][327]LogModuleManager: Shutting down and abandoning module SessionServices (604)
+[2020.03.23-22.01.31:757][327]LogModuleManager: Shutting down and abandoning module MeshPaint (602)
+[2020.03.23-22.01.31:757][327]LogModuleManager: Shutting down and abandoning module ViewportSnapping (600)
+[2020.03.23-22.01.31:757][327]LogModuleManager: Shutting down and abandoning module ViewportInteraction (598)
+[2020.03.23-22.01.31:757][327]LogModuleManager: Shutting down and abandoning module ClothPainter (596)
+[2020.03.23-22.01.31:757][327]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (595)
+[2020.03.23-22.01.31:757][327]LogModuleManager: Shutting down and abandoning module LogVisualizer (592)
+[2020.03.23-22.01.31:757][327]LogModuleManager: Shutting down and abandoning module IntroTutorials (590)
+[2020.03.23-22.01.31:757][327]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (589)
+[2020.03.23-22.01.31:758][327]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (586)
+[2020.03.23-22.01.31:758][327]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (584)
+[2020.03.23-22.01.31:758][327]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (582)
+[2020.03.23-22.01.31:758][327]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (581)
+[2020.03.23-22.01.32:597][327]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (578)
+[2020.03.23-22.01.32:597][327]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (576)
+[2020.03.23-22.01.32:597][327]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (574)
+[2020.03.23-22.01.32:597][327]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (572)
+[2020.03.23-22.01.32:597][327]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (570)
+[2020.03.23-22.01.32:597][327]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (568)
+[2020.03.23-22.01.32:597][327]LogModuleManager: Shutting down and abandoning module InputBindingEditor (566)
+[2020.03.23-22.01.32:597][327]LogModuleManager: Shutting down and abandoning module MergeActors (564)
+[2020.03.23-22.01.32:598][327]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (562)
+[2020.03.23-22.01.32:598][327]LogModuleManager: Shutting down and abandoning module LocalizationService (561)
+[2020.03.23-22.01.32:598][327]LogModuleManager: Shutting down and abandoning module HardwareTargeting (558)
+[2020.03.23-22.01.32:598][327]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (556)
+[2020.03.23-22.01.32:598][327]LogModuleManager: Shutting down and abandoning module UndoHistory (554)
+[2020.03.23-22.01.32:598][327]LogModuleManager: Shutting down and abandoning module XmlParser (552)
+[2020.03.23-22.01.32:598][327]LogModuleManager: Shutting down and abandoning module Blutility (550)
+[2020.03.23-22.01.32:599][327]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (548)
+[2020.03.23-22.01.32:599][327]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (547)
+[2020.03.23-22.01.32:599][327]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (544)
+[2020.03.23-22.01.32:599][327]LogModuleManager: Shutting down and abandoning module SettingsEditor (542)
+[2020.03.23-22.01.32:599][327]LogModuleManager: Shutting down and abandoning module ProjectLauncher (540)
+[2020.03.23-22.01.32:599][327]LogModuleManager: Shutting down and abandoning module SessionFrontend (538)
+[2020.03.23-22.01.32:599][327]LogModuleManager: Shutting down and abandoning module ProfilerClient (536)
+[2020.03.23-22.01.32:599][327]LogModuleManager: Shutting down and abandoning module DeviceManager (534)
+[2020.03.23-22.01.32:599][327]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (533)
+[2020.03.23-22.01.32:631][327]LogModuleManager: Shutting down and abandoning module AutomationController (530)
+[2020.03.23-22.01.32:631][327]LogModuleManager: Shutting down and abandoning module AutomationWindow (528)
+[2020.03.23-22.01.32:631][327]LogModuleManager: Shutting down and abandoning module Layers (526)
+[2020.03.23-22.01.32:631][327]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (524)
+[2020.03.23-22.01.32:631][327]LogModuleManager: Shutting down and abandoning module DetailCustomizations (522)
+[2020.03.23-22.01.32:631][327]LogModuleManager: Shutting down and abandoning module PackagesDialog (520)
+[2020.03.23-22.01.32:631][327]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (518)
+[2020.03.23-22.01.32:631][327]LogModuleManager: Shutting down and abandoning module Persona (516)
+[2020.03.23-22.01.32:631][327]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (515)
+[2020.03.23-22.01.32:631][327]LogModuleManager: Shutting down and abandoning module AnimGraph (513)
+[2020.03.23-22.01.32:631][327]LogModuleManager: Shutting down and abandoning module Kismet (510)
+[2020.03.23-22.01.32:632][327]LogModuleManager: Shutting down and abandoning module KismetWidgets (509)
+[2020.03.23-22.01.32:632][327]LogModuleManager: Shutting down and abandoning module GraphEditor (506)
+[2020.03.23-22.01.32:632][327]LogModuleManager: Shutting down and abandoning module StructViewer (504)
+[2020.03.23-22.01.32:632][327]LogModuleManager: Shutting down and abandoning module ClassViewer (502)
+[2020.03.23-22.01.32:633][327]LogModuleManager: Shutting down and abandoning module Toolbox (500)
+[2020.03.23-22.01.32:633][327]LogModuleManager: Shutting down and abandoning module ModuleUI (498)
+[2020.03.23-22.01.32:633][327]LogModuleManager: Shutting down and abandoning module OutputLog (496)
+[2020.03.23-22.01.32:633][327]LogModuleManager: Shutting down and abandoning module GammaUI (494)
+[2020.03.23-22.01.32:633][327]LogModuleManager: Shutting down and abandoning module Documentation (492)
+[2020.03.23-22.01.32:633][327]LogModuleManager: Shutting down and abandoning module ToolMenus (490)
+[2020.03.23-22.01.32:633][327]LogModuleManager: Shutting down and abandoning module LiveCoding (488)
+[2020.03.23-22.01.32:633][327]LogModuleManager: Shutting down and abandoning module LevelSequence (486)
+[2020.03.23-22.01.32:633][327]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (484)
+[2020.03.23-22.01.32:633][327]LogModuleManager: Shutting down and abandoning module MovieScene (482)
+[2020.03.23-22.01.32:633][327]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (480)
+[2020.03.23-22.01.32:633][327]LogModuleManager: Shutting down and abandoning module LauncherPlatform (478)
+[2020.03.23-22.01.32:633][327]LogModuleManager: Shutting down and abandoning module AnalyticsET (476)
+[2020.03.23-22.01.32:633][327]LogModuleManager: Shutting down and abandoning module PortalServices (474)
+[2020.03.23-22.01.32:633][327]LogModuleManager: Shutting down and abandoning module PortalRpc (472)
+[2020.03.23-22.01.32:633][327]LogModuleManager: Shutting down and abandoning module MessagingRpc (470)
+[2020.03.23-22.01.32:633][327]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (468)
+[2020.03.23-22.01.32:633][327]LogModuleManager: Shutting down and abandoning module AIModule (466)
+[2020.03.23-22.01.32:633][327]LogModuleManager: Shutting down and abandoning module GameplayDebugger (465)
+[2020.03.23-22.01.32:633][327]LogModuleManager: Shutting down and abandoning module AITestSuite (463)
+[2020.03.23-22.01.32:633][327]LogModuleManager: Shutting down and abandoning module NavigationSystem (461)
+[2020.03.23-22.01.32:633][327]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (458)
+[2020.03.23-22.01.32:636][327]LogModuleManager: Shutting down and abandoning module ProfilerService (456)
+[2020.03.23-22.01.32:688][327]LogModuleManager: Shutting down and abandoning module TaskGraph (454)
+[2020.03.23-22.01.32:688][327]LogModuleManager: Shutting down and abandoning module ScreenshotTools (452)
+[2020.03.23-22.01.32:688][327]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (450)
+[2020.03.23-22.01.32:688][327]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (448)
+[2020.03.23-22.01.32:688][327]LogModuleManager: Shutting down and abandoning module OculusEditor (446)
+[2020.03.23-22.01.32:688][327]LogModuleManager: Shutting down and abandoning module OculusInput (444)
+[2020.03.23-22.01.32:688][327]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (442)
+[2020.03.23-22.01.32:688][327]LogModuleManager: Shutting down and abandoning module EditableMesh (440)
+[2020.03.23-22.01.32:688][327]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (438)
+[2020.03.23-22.01.32:688][327]LogModuleManager: Shutting down and abandoning module CableComponent (436)
+[2020.03.23-22.01.32:688][327]LogModuleManager: Shutting down and abandoning module AudioCapture (434)
+[2020.03.23-22.01.32:688][327]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (433)
+[2020.03.23-22.01.32:688][327]LogModuleManager: Shutting down and abandoning module AssetTags (430)
+[2020.03.23-22.01.32:688][327]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (428)
+[2020.03.23-22.01.32:688][327]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (426)
+[2020.03.23-22.01.32:688][327]LogModuleManager: Shutting down and abandoning module AppleImageUtils (424)
+[2020.03.23-22.01.32:688][327]LogModuleManager: Shutting down and abandoning module AndroidPermission (422)
+[2020.03.23-22.01.32:688][327]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (420)
+[2020.03.23-22.01.32:688][327]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (418)
+[2020.03.23-22.01.32:688][327]LogModuleManager: Shutting down and abandoning module MediaCompositing (416)
+[2020.03.23-22.01.32:688][327]LogModuleManager: Shutting down and abandoning module ImgMedia (414)
+[2020.03.23-22.01.32:688][327]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (412)
+[2020.03.23-22.01.32:688][327]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (410)
+[2020.03.23-22.01.32:688][327]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (408)
+[2020.03.23-22.01.32:688][327]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (406)
+[2020.03.23-22.01.32:688][327]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (404)
+[2020.03.23-22.01.32:688][327]LogModuleManager: Shutting down and abandoning module BackChannel (402)
+[2020.03.23-22.01.32:688][327]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (400)
+[2020.03.23-22.01.32:688][327]LogModuleManager: Shutting down and abandoning module AutomationUtils (398)
+[2020.03.23-22.01.32:688][327]LogModuleManager: Shutting down and abandoning module AlembicImporter (396)
+[2020.03.23-22.01.32:688][327]LogModuleManager: Shutting down and abandoning module AlembicLibrary (395)
+[2020.03.23-22.01.32:688][327]LogModuleManager: Shutting down and abandoning module GeometryCache (394)
+[2020.03.23-22.01.32:688][327]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (393)
+[2020.03.23-22.01.32:688][327]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (388)
+[2020.03.23-22.01.32:688][327]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (386)
+[2020.03.23-22.01.32:688][327]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (384)
+[2020.03.23-22.01.32:688][327]LogModuleManager: Shutting down and abandoning module PluginBrowser (382)
+[2020.03.23-22.01.32:688][327]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (380)
+[2020.03.23-22.01.32:688][327]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (378)
+[2020.03.23-22.01.32:688][327]LogModuleManager: Shutting down and abandoning module CurveEditorTools (376)
+[2020.03.23-22.01.32:689][327]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (374)
+[2020.03.23-22.01.32:689][327]LogModuleManager: Shutting down and abandoning module CryptoKeys (372)
+[2020.03.23-22.01.32:689][327]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (370)
+[2020.03.23-22.01.32:689][327]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (368)
+[2020.03.23-22.01.32:689][327]LogModuleManager: Shutting down and abandoning module UObjectPlugin (366)
+[2020.03.23-22.01.32:689][327]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (364)
+[2020.03.23-22.01.32:689][327]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (362)
+[2020.03.23-22.01.32:689][327]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (360)
+[2020.03.23-22.01.32:689][327]LogModuleManager: Shutting down and abandoning module GitSourceControl (358)
+[2020.03.23-22.01.32:689][327]LogModuleManager: Shutting down and abandoning module SourceControl (357)
+[2020.03.23-22.01.32:689][327]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (354)
+[2020.03.23-22.01.32:689][327]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (352)
+[2020.03.23-22.01.32:689][327]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (350)
+[2020.03.23-22.01.32:689][327]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (348)
+[2020.03.23-22.01.32:689][327]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (346)
+[2020.03.23-22.01.32:689][327]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (344)
+[2020.03.23-22.01.32:689][327]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (342)
+[2020.03.23-22.01.32:689][327]LogModuleManager: Shutting down and abandoning module Paper2DEditor (340)
+[2020.03.23-22.01.32:689][327]LogModuleManager: Shutting down and abandoning module SignificanceManager (336)
+[2020.03.23-22.01.32:689][327]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (334)
+[2020.03.23-22.01.32:689][327]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (332)
+[2020.03.23-22.01.32:689][327]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (328)
+[2020.03.23-22.01.32:689][327]LogModuleManager: Shutting down and abandoning module ActorSequence (326)
+[2020.03.23-22.01.32:689][327]LogModuleManager: Shutting down and abandoning module UdpMessaging (324)
+[2020.03.23-22.01.32:791][327]LogModuleManager: Shutting down and abandoning module TcpMessaging (322)
+[2020.03.23-22.01.32:891][327]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (320)
+[2020.03.23-22.01.32:891][327]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (318)
+[2020.03.23-22.01.32:891][327]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2020.03.23-22.01.32:891][327]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (316)
+[2020.03.23-22.01.32:891][327]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (314)
+[2020.03.23-22.01.32:891][327]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (312)
+[2020.03.23-22.01.32:891][327]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (310)
+[2020.03.23-22.01.32:891][327]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (308)
+[2020.03.23-22.01.32:891][327]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (306)
+[2020.03.23-22.01.32:891][327]LogModuleManager: Shutting down and abandoning module MagicLeapController (304)
+[2020.03.23-22.01.32:891][327]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.03.23-22.01.32:891][327]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (302)
+[2020.03.23-22.01.32:891][327]LogModuleManager: Shutting down and abandoning module MagicLeapAR (300)
+[2020.03.23-22.01.32:891][327]LogModuleManager: Shutting down and abandoning module AugmentedReality (299)
+[2020.03.23-22.01.32:891][327]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (296)
+[2020.03.23-22.01.32:891][327]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (294)
+[2020.03.23-22.01.32:891][327]LogModuleManager: Shutting down and abandoning module FacialAnimation (292)
+[2020.03.23-22.01.32:891][327]LogModuleManager: Shutting down and abandoning module DataValidation (290)
+[2020.03.23-22.01.32:891][327]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (288)
+[2020.03.23-22.01.32:891][327]LogModuleManager: Shutting down and abandoning module LevelEditor (287)
+[2020.03.23-22.01.32:891][327]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (286)
+[2020.03.23-22.01.32:891][327]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (284)
+[2020.03.23-22.01.32:892][327]LogModuleManager: Shutting down and abandoning module MainFrame (282)
+[2020.03.23-22.01.32:892][327]LogModuleManager: Shutting down and abandoning module HotReload (281)
+[2020.03.23-22.01.32:892][327]LogModuleManager: Shutting down and abandoning module ContentBrowser (277)
+[2020.03.23-22.01.32:893][327]LogModuleManager: Shutting down and abandoning module TreeMap (275)
+[2020.03.23-22.01.32:893][327]LogModuleManager: Shutting down and abandoning module AnimationSharing (272)
+[2020.03.23-22.01.32:893][327]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (270)
+[2020.03.23-22.01.32:893][327]LogModuleManager: Shutting down and abandoning module Paper2D (268)
+[2020.03.23-22.01.32:893][327]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (266)
+[2020.03.23-22.01.32:894][327]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (264)
+[2020.03.23-22.01.32:894][327]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (262)
+[2020.03.23-22.01.32:894][327]LogModuleManager: Shutting down and abandoning module PacketHandler (260)
+[2020.03.23-22.01.32:894][327]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (258)
+[2020.03.23-22.01.32:894][327]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (256)
+[2020.03.23-22.01.32:894][327]LogModuleManager: Shutting down and abandoning module MediaAssets (254)
+[2020.03.23-22.01.32:894][327]LogModuleManager: Shutting down and abandoning module Overlay (252)
+[2020.03.23-22.01.32:894][327]LogModuleManager: Shutting down and abandoning module OverlayEditor (251)
+[2020.03.23-22.01.32:894][327]LogModuleManager: Shutting down and abandoning module VREditor (248)
+[2020.03.23-22.01.32:894][327]LogModuleManager: Shutting down and abandoning module StringTableEditor (246)
+[2020.03.23-22.01.32:894][327]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (244)
+[2020.03.23-22.01.32:894][327]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (242)
+[2020.03.23-22.01.32:895][327]LogModuleManager: Shutting down and abandoning module FunctionalTesting (240)
+[2020.03.23-22.01.32:895][327]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (238)
+[2020.03.23-22.01.32:895][327]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (237)
+[2020.03.23-22.01.32:895][327]LogModuleManager: Shutting down and abandoning module UMG (234)
+[2020.03.23-22.01.32:895][327]LogModuleManager: Shutting down and abandoning module UMGEditor (233)
+[2020.03.23-22.01.32:895][327]LogModuleManager: Shutting down and abandoning module MessageLog (231)
+[2020.03.23-22.01.32:895][327]LogModuleManager: Shutting down and abandoning module SlateReflector (226)
+[2020.03.23-22.01.32:895][327]LogModuleManager: Shutting down and abandoning module Slate (224)
+[2020.03.23-22.01.32:895][327]LogModuleManager: Shutting down and abandoning module SlateCore (222)
+[2020.03.23-22.01.32:895][327]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (220)
+[2020.03.23-22.01.32:895][327]LogModuleManager: Shutting down and abandoning module UnrealEd (218)
+[2020.03.23-22.01.32:895][327]LogModuleManager: Shutting down and abandoning module MRMesh (216)
+[2020.03.23-22.01.32:895][327]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (214)
+[2020.03.23-22.01.32:895][327]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (212)
+[2020.03.23-22.01.32:895][327]LogModuleManager: Shutting down and abandoning module XAudio2 (210)
+[2020.03.23-22.01.32:895][327]LogModuleManager: Shutting down and abandoning module Networking (208)
+[2020.03.23-22.01.32:895][327]LogModuleManager: Shutting down and abandoning module Core (206)
+[2020.03.23-22.01.32:895][327]LogModuleManager: Shutting down and abandoning module MovieSceneTools (204)
+[2020.03.23-22.01.32:895][327]LogModuleManager: Shutting down and abandoning module CurveEditor (203)
+[2020.03.23-22.01.32:895][327]LogModuleManager: Shutting down and abandoning module Sequencer (201)
+[2020.03.23-22.01.32:895][327]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2020.03.23-22.01.32:896][327]LogModuleManager: Shutting down and abandoning module KismetCompiler (196)
+[2020.03.23-22.01.32:896][327]LogModuleManager: Shutting down and abandoning module MeshUtilities (194)
+[2020.03.23-22.01.32:896][327]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (193)
+[2020.03.23-22.01.32:896][327]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (192)
+[2020.03.23-22.01.32:896][327]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (191)
+[2020.03.23-22.01.32:896][327]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (189)
+[2020.03.23-22.01.32:896][327]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (187)
+[2020.03.23-22.01.32:896][327]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (185)
+[2020.03.23-22.01.32:896][327]LogModuleManager: Shutting down and abandoning module MaterialBaking (181)
+[2020.03.23-22.01.32:896][327]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (176)
+[2020.03.23-22.01.32:896][327]LogModuleManager: Shutting down and abandoning module DerivedDataCache (174)
+[2020.03.23-22.01.32:896][327]LogDerivedDataCache: Shutdown
+[2020.03.23-22.01.32:896][327]LogModuleManager: Shutting down and abandoning module XGEController (172)
+[2020.03.23-22.01.32:896][327]LogModuleManager: Shutting down and abandoning module TargetPlatform (170)
+[2020.03.23-22.01.32:896][327]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (169)
+[2020.03.23-22.01.32:896][327]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (167)
+[2020.03.23-22.01.32:896][327]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (165)
+[2020.03.23-22.01.32:896][327]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (163)
+[2020.03.23-22.01.32:896][327]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (161)
+[2020.03.23-22.01.32:896][327]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (159)
+[2020.03.23-22.01.32:896][327]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (157)
+[2020.03.23-22.01.32:896][327]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (155)
+[2020.03.23-22.01.32:896][327]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (153)
+[2020.03.23-22.01.32:896][327]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (151)
+[2020.03.23-22.01.32:896][327]LogModuleManager: Shutting down and abandoning module ImageWrapper (150)
+[2020.03.23-22.01.32:896][327]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (147)
+[2020.03.23-22.01.32:896][327]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (145)
+[2020.03.23-22.01.32:896][327]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (143)
+[2020.03.23-22.01.32:896][327]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (141)
+[2020.03.23-22.01.32:896][327]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (139)
+[2020.03.23-22.01.32:896][327]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (137)
+[2020.03.23-22.01.32:896][327]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (135)
+[2020.03.23-22.01.32:896][327]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (133)
+[2020.03.23-22.01.32:896][327]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (131)
+[2020.03.23-22.01.32:897][327]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2020.03.23-22.01.32:897][327]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (127)
+[2020.03.23-22.01.32:897][327]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (125)
+[2020.03.23-22.01.32:897][327]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (123)
+[2020.03.23-22.01.32:897][327]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2020.03.23-22.01.32:897][327]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2020.03.23-22.01.32:897][327]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (117)
+[2020.03.23-22.01.32:897][327]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2020.03.23-22.01.32:897][327]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2020.03.23-22.01.32:898][327]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2020.03.23-22.01.32:901][327]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (109)
+[2020.03.23-22.01.32:902][327]LogModuleManager: Shutting down and abandoning module InputCore (106)
+[2020.03.23-22.01.32:902][327]LogModuleManager: Shutting down and abandoning module Settings (104)
+[2020.03.23-22.01.32:902][327]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (102)
+[2020.03.23-22.01.32:902][327]LogModuleManager: Shutting down and abandoning module PhysXCooking (100)
+[2020.03.23-22.01.32:902][327]LogModuleManager: Shutting down and abandoning module ChaosSolvers (98)
+[2020.03.23-22.01.32:902][327]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (97)
+[2020.03.23-22.01.32:902][327]LogModuleManager: Shutting down and abandoning module Chaos (94)
+[2020.03.23-22.01.32:902][327]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (92)
+[2020.03.23-22.01.32:902][327]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (91)
+[2020.03.23-22.01.32:902][327]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (88)
+[2020.03.23-22.01.32:902][327]LogModuleManager: Shutting down and abandoning module SteamVRInput (86)
+[2020.03.23-22.01.32:902][327]LogModuleManager: Shutting down and abandoning module SteamVR (84)
+[2020.03.23-22.01.32:902][327]LogHMD: Freeing OpenVRDLLHandle.
+[2020.03.23-22.01.32:902][327]LogModuleManager: Shutting down and abandoning module OculusHMD (82)
+[2020.03.23-22.01.32:902][327]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (80)
+[2020.03.23-22.01.32:902][327]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (78)
+[2020.03.23-22.01.32:902][327]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (76)
+[2020.03.23-22.01.32:902][327]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (72)
+[2020.03.23-22.01.32:903][327]LogModuleManager: Shutting down and abandoning module XMPP (67)
+[2020.03.23-22.01.32:903][327]LogModuleManager: Shutting down and abandoning module WebSockets (66)
+[2020.03.23-22.01.32:907][327]LogModuleManager: Shutting down and abandoning module HTTP (63)
+[2020.03.23-22.01.32:907][327]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.03.23-22.01.32:907][327]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4B934BDF-46AE-99D3-5D38-CBAD7362467F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=61b6922c43796c91aff9cd9eeea81d17%7C%7C65bd1451-94c8-4c46-82e8-47580e504bf2&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2020.03.23-22.01.32:941][327]LogModuleManager: Shutting down and abandoning module SSL (62)
+[2020.03.23-22.01.32:941][327]LogModuleManager: Shutting down and abandoning module WmfMedia (58)
+[2020.03.23-22.01.32:942][327]LogModuleManager: Shutting down and abandoning module Media (57)
+[2020.03.23-22.01.32:943][327]LogModuleManager: Shutting down and abandoning module MagicLeap (54)
+[2020.03.23-22.01.32:943][327]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2020.03.23-22.01.32:943][327]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2020.03.23-22.01.32:943][327]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2020.03.23-22.01.32:943][327]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2020.03.23-22.01.32:943][327]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2020.03.23-22.01.32:943][327]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2020.03.23-22.01.32:943][327]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.03.23-22.01.32:943][327]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.03.23-22.01.32:943][327]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.03.23-22.01.32:943][327]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.03.23-22.01.32:943][327]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.03.23-22.01.32:943][327]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.03.23-22.01.32:943][327]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.03.23-22.01.32:943][327]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.03.23-22.01.32:945][327]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.03.23-22.01.32:945][327]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.03.23-22.01.32:945][327]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.03.23-22.01.32:945][327]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.03.23-22.01.32:945][327]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.03.23-22.01.32:945][327]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.03.23-22.01.32:945][327]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.03.23-22.01.32:945][327]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.03.23-22.01.32:945][327]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.03.23-22.01.32:945][327]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.03.23-22.01.32:945][327]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.03.23-22.01.32:945][327]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.03.23-22.01.32:949][327]LogD3D11RHI: Shutdown
+[2020.03.23-22.01.32:949][327]LogD3D11RHI: CleanupD3DDevice
+[2020.03.23-22.01.32:964][327]LogExit: Exiting.
+[2020.03.23-22.01.32:982][327]Log file closed, 03/23/20 23:01:32
